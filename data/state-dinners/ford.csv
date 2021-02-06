@@ -1,0 +1,203 @@
+president,category,subcategory,item,count
+Ford,Meat,Seafood,Fillet of Sole Véronique,2
+Ford,Meat,Seafood,Supreme of Sole Véronique,1
+Ford,Meat,Seafood,Supreme of Halibut Dugléré,1
+Ford,Meat,Seafood,Cold Smoked Rainbow Trout,1
+Ford,Meat,Seafood,Fillet of Pompano Meunière,1
+Ford,Meat,Seafood,Cold Smoked Salmon,2
+Ford,Meat,Seafood,Smoked Columbia River Salmon,1
+Ford,Meat,Seafood,Poached Columbia River Salmon,1
+Ford,Meat,Seafood,Supreme of Shrimp Niçoise,1
+Ford,Meat,Seafood,Supreme of Red Snapper,1
+Ford,Meat,Seafood,Fillet of Red Snapper Meunière,1
+Ford,Meat,Seafood,Coquilles St. Jacques,1
+Ford,Meat,Red,Roast Sirloin of Beef Bordelaise,1
+Ford,Meat,Red,Roast Prime Ribs of Beef,1
+Ford,Meat,Red,Tenderloin of Beef,2
+Ford,Meat,Red,Fillet of Beef,3
+Ford,Meat,Red,Fillet of Beef with Bearnaise Sauce,1
+Ford,Meat,Red,Chateaubriand Bearnaise,1
+Ford,Meat,Red,Filet Mignon Bordelaise,1
+Ford,Meat,Red,Tournedos with Mushroom Sauce,1
+Ford,Meat,Red,Saddle of Veal,3
+Ford,Meat,Red,Roast Rack of Lamb,2
+Ford,Meat,Prosciutto,Melon and Prosciutto,2
+Ford,Meat,Poultry,Supreme of Pheasant Smitane,2
+Ford,Meat,Poultry,Breast of Pheasant,1
+Ford,Meat,Poultry,Supreme of Pheasant Véronique,1
+Ford,Meat,Poultry,Supreme of Capon,1
+Ford,Meat,Poultry,Stuffed Breast of Capon Tamara,1
+Ford,Meat,Poultry,Supreme of Royal Squab,1
+Ford,Meat,Poultry,Supreme of Royal Squab Véronique,1
+Ford,Meat,Poultry,Supreme of Rock Cornish Hen,1
+Ford,Meat,Poultry,Roast Duckling Bigarade,1
+Ford,Meat,Poultry,Supreme of Duckling with Glazed Apples,1
+Ford,Meat,Poultry,Supreme of Duckling,2
+Ford,Meat,Timbale,Timbale of Sea Scallops,1
+Ford,Meat,Mousse,Mousseline of Red Snapper,1
+Ford,Meat,Aspic,New England Lobster en Bellevue with Sauce Remoulade,1
+Ford,Meat,Aspic,Cold Columbia River Salmon en Bellevue with Sauce Verte,1
+Ford,Meat,Aspic,Salmon en Gélee with Sauce Verte,2
+Ford,Carbs,Croquettes,Dauphine Potatoes,1
+Ford,Carbs,Croquettes,Rice Croquettes,1
+Ford,Carbs,Croquettes,Wild Rice Croquettes,1
+Ford,Carbs,Pastries,Fleurons Dorés,1
+Ford,Carbs,Pastries,Fleurons,3
+Ford,Carbs,Cheese Pastries,Cheese Straws,1
+Ford,Carbs,Cheese Pastries,Paillettes Dorées,2
+Ford,Carbs,Toast,Melba Toast,2
+Ford,Carbs,Rice,Wild Rice,7
+Ford,Carbs,Rice,Rice Pilaff,1
+Ford,Carbs,Rice,Wild Rice Amandine,2
+Ford,Carbs,Rice,Saffron Rice,3
+Ford,Vegetables,Broccoli,Broccoli au Beurre,2
+Ford,Vegetables,Broccoli,Broccoli Mornay,1
+Ford,Vegetables,Vegetables,Bouquet of Vegetables,2
+Ford,Vegetables,Vegetables,Bouquet of Spring Vegetables,1
+Ford,Vegetables,Peas,Green Peas with Fresh Mint,1
+Ford,Vegetables,Spinach,Spinach en Branche,1
+Ford,Vegetables,Spinach,Spinach with Tangerines,1
+Ford,Vegetables,Fruit,Spinach with Tangerines,1
+Ford,Vegetables,Fruit,Grilled Orange Slices,1
+Ford,Vegetables,Fruit,Melon and Prosciutto,2
+Ford,Vegetables,Fruit,Carrots and Grapes,1
+Ford,Vegetables,Cauliflower,Cauliflower with Parsley,1
+Ford,Vegetables,Cauliflower,Cauliflower Polonaise,1
+Ford,Vegetables,Tomatoes,Tomatoes St. Germain,1
+Ford,Vegetables,Tomatoes,Broiled Tomatoes with Artichoke Hearts,1
+Ford,Vegetables,Tomatoes,Tomatoes Provençale,1
+Ford,Vegetables,Potatoes,New Potatoes with Parsley,1
+Ford,Vegetables,Potatoes,Pommes Mascotte,1
+Ford,Vegetables,Celery,Onion and Celery Amandine,1
+Ford,Vegetables,Celery,Baked Celery with Almonds,1
+Ford,Vegetables,Carrots,Glazed Carrots,2
+Ford,Vegetables,Carrots,Buttered Carrots,1
+Ford,Vegetables,Carrots,Carrots and Grapes,1
+Ford,Vegetables,Brussels Sprouts,Brussels Sprouts Amandine,1
+Ford,Vegetables,Mushrooms,Mushrooms Provençale,2
+Ford,Vegetables,Mushrooms,Zucchini with Mushrooms,2
+Ford,Vegetables,Asparagus,Asparagus Tips in Butter,1
+Ford,Vegetables,Asparagus,Fresh Asparagus with Hollandaise Sauce,1
+Ford,Vegetables,Asparagus,Asparagus Polonaise,2
+Ford,Vegetables,Chestnuts,Chestnut Puree,1
+Ford,Vegetables,Chestnuts,Green Beans with Water Chestnuts,1
+Ford,Vegetables,Zucchini,Sauteed Zucchini,1
+Ford,Vegetables,Zucchini,Zucchini Sauté Fermière,1
+Ford,Vegetables,Zucchini,Zucchini with Mushrooms,2
+Ford,Vegetables,Artichokes,Artichokes St. Germain,2
+Ford,Vegetables,Artichokes,Broiled Tomatoes with Artichoke Hearts,1
+Ford,Vegetables,Timbale,Timbale of Spinach,1
+Ford,Vegetables,Timbale,Broccoli Timbale,3
+Ford,Vegetables,Eggplant,Eggplant Fermière,1
+Ford,Vegetables,Onions,Onion and Celery Amandine,1
+Ford,Vegetables,Green Beans,Green Beans with Water Chestnuts,1
+Ford,Wine,Sauvignon Blanc,Robert Mondavi Fume Blanc,2
+Ford,Wine,Sauvignon Blanc,Wente Brothers,1
+Ford,Wine,Sauvignon Blanc,Ste. Michelle Semillon Blanc,1
+Ford,Wine,Sauvignon Blanc,Chateau Mouton Rothschild,3
+Ford,Wine,Sauvignon Blanc,Chateau Latour,2
+Ford,Wine,Vidal Blanc,Tabor Hill Trebbiano,1
+Ford,Wine,Pinot Noir,Robert Mondavi,3
+Ford,Wine,Pinot Noir,Inglenook,1
+Ford,Wine,Merlot,Sterling,1
+Ford,Wine,Blend,Buena Vista Burgundy,1
+Ford,Wine,Fortified,Paul Masson Dry Sherry,1
+Ford,Wine,Beaujolais,Charles Krug Gamay,1
+Ford,Wine,Beaujolais,Mirassou Premier Gamay,1
+Ford,Wine,Champagne,Dom Pérignon,1
+Ford,Wine,Champagne,Louis Roederer Cristal,1
+Ford,Wine,Chenin Blanc,Dry Creek,3
+Ford,Wine,Chenin Blanc,Ste. Michelle,3
+Ford,Wine,Chenin Blanc,Sterling,1
+Ford,Wine,Sparkling,Almaden Blanc de Blancs,2
+Ford,Wine,Sparkling,Korbel Natural,1
+Ford,Wine,Sparkling,Schramsberg Blanc de Blancs,14
+Ford,Wine,Sparkling,Schramsberg Blanc de Noir,2
+Ford,Wine,Sparkling,Schramsberg Crémant,1
+Ford,Wine,Sparkling,Mirassou au Naturel,3
+Ford,Wine,Sparkling,Mirassou Brut,1
+Ford,Wine,Sparkling,Beaulieu Extra Dry,3
+Ford,Wine,Sparkling,Beaulieu Champagne de Chardonnay,1
+Ford,Wine,Riesling,Bernkasteler Doctor,1
+Ford,Wine,Riesling,Schloss Johannisberg,1
+Ford,Wine,Riesling,Louis Martini Johannisberger,1
+Ford,Wine,Riesling,Freemark Abbey Johannisberg,2
+Ford,Wine,Riesling,Chappellet Johannisberg,1
+Ford,Wine,Riesling,Wente Grey Riesling,1
+Ford,Wine,Pinot Chardonnay,Louis Martini,1
+Ford,Wine,Pinot Chardonnay,Inglenook,1
+Ford,Wine,Pinot Chardonnay,Freemark Abbey,1
+Ford,Wine,Pinot Chardonnay,Wente Brothers,1
+Ford,Wine,Pinot Chardonnay,Beaulieu Beaufort,2
+Ford,Wine,Cabernet Sauvignon,Louis Martini,8
+Ford,Wine,Cabernet Sauvignon,Charles Krug,2
+Ford,Wine,Cabernet Sauvignon,Freemark Abbey,3
+Ford,Wine,Cabernet Sauvignon,Sterling,1
+Ford,Wine,Cabernet Sauvignon,Robert Mondavi,2
+Ford,Wine,Cabernet Sauvignon,Ste. Michelle,1
+Ford,Wine,Cabernet Sauvignon,Beaulieu,1
+Ford,Wine,Cabernet Sauvignon,Almaden,1
+Ford,Soup/Salad,Cheese,Brie Cheese,13
+Ford,Soup/Salad,Cheese,Brie Cheese Amandine,1
+Ford,Soup/Salad,Cheese,Tilsit Cheese,2
+Ford,Soup/Salad,Cheese,Port Salut Cheese,3
+Ford,Soup/Salad,Cheese,Bel Paese Cheese,7
+Ford,Soup/Salad,Cheese,Trappist Cheese,2
+Ford,Soup/Salad,Cheese,Muenster Cheese,1
+Ford,Soup/Salad,Lettuce,Bibb Lettuce Salad,6
+Ford,Soup/Salad,Lettuce,Bibb Lettuce Salad with Watercress,1
+Ford,Soup/Salad,Lettuce,Hearts of Lettuce Salad,4
+Ford,Soup/Salad,Lettuce,Romaine Lettuce Salad,1
+Ford,Soup/Salad,Lettuce,Asparagus and Lettuce Vinaigrette Salad,1
+Ford,Soup/Salad,Asparagus,Asparagus and Lettuce Vinaigrette Salad,1
+Ford,Soup/Salad,Endive,Endive and Watercress Salad,8
+Ford,Soup/Salad,Watercress,Bibb Lettuce Salad with Watercress,1
+Ford,Soup/Salad,Watercress,Watercress and Endive Salad,8
+Ford,Soup/Salad,Watercress,Hearts of Palm and Watercress Vinaigrette Salad,2
+Ford,Soup/Salad,Watercress,Watercress and Hearts of Palm Salad,1
+Ford,Soup/Salad,Greens,Garden Salad,3
+Ford,Soup/Salad,Greens,Mixed Garden Salad,1
+Ford,Soup/Salad,Greens,Tossed Green Salad,1
+Ford,Soup/Salad,Soup,Turtle Soup,1
+Ford,Soup/Salad,Soup,Turtle Soup with Sherry,1
+Ford,Soup/Salad,Soup,Romaine Soup,1
+Ford,Soup/Salad,Soup,Cold Cucumber Soup,1
+Ford,Soup/Salad,Soup,Consommé with Brandy,1
+Ford,Soup/Salad,Soup,Gazpacho,2
+Ford,Soup/Salad,Soup,Red Snapper Bisque,1
+Ford,Soup/Salad,Gelatin,Jellied Madrilene,1
+Ford,Soup/Salad,Palm Hearts,Hearts of Palm and Watercress Vinaigrette Salad,2
+Ford,Soup/Salad,Palm Hearts,Hearts of Palm Salad,1
+Ford,Soup/Salad,Palm Hearts,Watercress and Hearts of Palm Salad,1
+Ford,Dessert,Cookies,Macaroons,2
+Ford,Dessert,Cake,Chocolate Delight,1
+Ford,Dessert,Cake,Charlotte Monticello,1
+Ford,Dessert,Flambe,Strawberries Flambé,1
+Ford,Dessert,Flambe,Vanilla Ice Cream with Strawberries Flambé,2
+Ford,Dessert,Flambe,Baked Alaska Flambé,1
+Ford,Dessert,Mousse,Chocolate Mousse,1
+Ford,Dessert,Mousse,Praline Mousse,2
+Ford,Dessert,Mousse,Hazelnut Mousse,1
+Ford,Dessert,Mousse,Chocolate Mousse Chantilly,1
+Ford,Dessert,Mousse,Fresh Peach Mousse,1
+Ford,Dessert,Fruit,Black Cherries with Irish Mist,1
+Ford,Dessert,Fruit,Peaches Melba,2
+Ford,Dessert,Fruit,Iced Pineapple,1
+Ford,Dessert,Sherbet,Raspberry Sherbet Ring with Strawberries,1
+Ford,Dessert,Sherbet,Orange Sherbet with Fresh Fruit,1
+Ford,Dessert,Soufflé,Macadamia Nut Soufflé,1
+Ford,Dessert,Soufflé,Macadamia Nut Soufflé with Sabayon Sauce,1
+Ford,Dessert,Soufflé,Grand Marnier Soufflé,1
+Ford,Dessert,Soufflé,Soufflé au Grand Marnier with Sabayon Sauce,1
+Ford,Dessert,Soufflé,Chocolate Soufflé with Vanilla Sauce,1
+Ford,Dessert,Ice Cream,Vanilla Ice Cream with Strawberries Flambé,2
+Ford,Dessert,Ice Cream,Hazelnut Ice Cream Ring with Chocolate Sauce,1
+Ford,Dessert,Ice Cream,Glace Praliné,1
+Ford,Dessert,Bombe,Peach Ice Cream Bombe with Fresh Raspberries,1
+Ford,Dessert,Bombe,Bombe Nougatine,2
+Ford,Dessert,Pastries,Chocolate Profiteroles,1
+Ford,Dessert,Parfait,Mocha Parfait with Fine Champagne,1
+Ford,Dessert,Coffee,Demitasse,22
+Ford,Dessert,Coffee,Irish Coffee,1
+Ford,Dessert,Vacherin,Strawberry Vacherin with Raspberry Sauce,1
+Ford,Dessert,Petits Fours,Petits Fours,10

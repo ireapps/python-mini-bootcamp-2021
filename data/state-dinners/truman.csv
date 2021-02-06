@@ -1,0 +1,252 @@
+president,category,subcategory,item,count
+TRUMAN,Meat,Seafood,Filet of Sole with Tartar Sauce,2
+TRUMAN,Meat,Seafood,Panned Fillet of Sole with Tyrolienne Sauce,1
+TRUMAN,Meat,Seafood,Panned Fillet Sole with Tartar Sauce,1
+TRUMAN,Meat,Seafood,"Blue Points on Half Shell with Cocktail Sauce, Lemon Wedges",1
+TRUMAN,Meat,Seafood,Lobster Thermidor,1
+TRUMAN,Meat,Seafood,Shrimp Cocktails,1
+TRUMAN,Meat,Seafood,Curried Shrimp in Rice Ring with Condiments,1
+TRUMAN,Meat,Seafood,Crabmeat Cocktail,1
+TRUMAN,Meat,Seafood,Broiled Pompano,1
+TRUMAN,Meat,Seafood,Broiled Boned Shad and Roe,1
+TRUMAN,Meat,Red,Roast Beef,1
+TRUMAN,Meat,Red,Fillet of Beef,1
+TRUMAN,Meat,Red,Prime Ribs of Beef,1
+TRUMAN,Meat,Red,Fillet of Beef with Mustard Sauce,1
+TRUMAN,Meat,Red,Roast Fillet Beef with Wine Essence,1
+TRUMAN,Meat,Red,Veal Birds Smothered in Mushrooms Wine Sauce,1
+TRUMAN,Meat,Red,Broiled Filet Mignon with Wine Essence,1
+TRUMAN,Meat,Poultry,Chicken a la King in Pattie Shells,1
+TRUMAN,Meat,Poultry,Boned Breast of Chicken with Cream Gravy and Currant Jelly,1
+TRUMAN,Meat,Poultry,Breast of Guinea Chicken on Prune Dressing with Currant Jelly,1
+TRUMAN,Meat,Poultry,Fried Breast of Chicken with Cream Gravy and Currant Jelly,3
+TRUMAN,Meat,Poultry,Fried Boned Breast of Chicken on Broiled Slices of Ham with Cream Gravy and Currant Jelly,1
+TRUMAN,Meat,Poultry,Barbecued Breast of Chicken with Barbecue Sauce,1
+TRUMAN,Meat,Poultry,Barbecued Breast of Chicken with Barbecued Sauce and Currant Jelly,1
+TRUMAN,Meat,Poultry,Roast Turkey with Brown Gravy,1
+TRUMAN,Meat,Poultry,Fried Spring Turkey with Cream Gravy,1
+TRUMAN,Meat,Poultry,Fried Breast of Spring Turkey with Cream Gravy and Currant Jelly,1
+TRUMAN,Meat,Poultry,Broiled Breast of Duck with Currant Jelly,1
+TRUMAN,Meat,Poultry,Broiled Breast of Duck with Wine Essence and Currant Jelly,1
+TRUMAN,Meat,Poultry,Broiled Breast of Duck with Orange Sauce,1
+TRUMAN,Meat,Sweetbreads,Stuffed Sweetbreads with Sauce de la Real and Crab Apple Jelly,1
+TRUMAN,Meat,Sweetbreads,Stuffed Sweetbreads with Sauce de la Real and Guava Jelly,1
+TRUMAN,Meat,Ham,Fried Boned Breast of Chicken on Broiled Slices of Ham with Cream Gravy and Currant Jelly,1
+TRUMAN,Meat,Ham,Baked Old Missouri Ham,1
+TRUMAN,Carbs,Biscuits,Hot Biscuits,4
+TRUMAN,Carbs,Crackers,Toasted Triscuits,10
+TRUMAN,Carbs,Crackers,Assorted Crackers,2
+TRUMAN,Carbs,Crackers,Crackers,1
+TRUMAN,Carbs,Crackers,Saltines,1
+TRUMAN,Carbs,Crackers,Oysterettes,1
+TRUMAN,Carbs,Crackers,Wheat Wafers,1
+TRUMAN,Carbs,Corn,Corn Sticks,6
+TRUMAN,Carbs,Corn,Corn Pudding,1
+TRUMAN,Carbs,Corn,Corn Fritters,4
+TRUMAN,Carbs,Toast,Melba Toast,5
+TRUMAN,Carbs,Toast,Whole Wheat Melba Toast,1
+TRUMAN,Carbs,Toast,Fairy Toast,3
+TRUMAN,Carbs,Yorkshire Pudding,Yorkshire Pudding,1
+TRUMAN,Carbs,Rolls,Hot Rolls,1
+TRUMAN,Carbs,Rolls,Dinner Rolls,2
+TRUMAN,Carbs,Rolls,Rolls,12
+TRUMAN,Carbs,Rolls,Hard Rolls,1
+TRUMAN,Carbs,Breadsticks,Breadsticks,1
+TRUMAN,Carbs,Apple Fritters,Fried Apple Fritters,1
+TRUMAN,Carbs,Apple Fritters,Apple Fritters,2
+TRUMAN,Carbs,Sandwiches,Brown and White Sandwiches,1
+TRUMAN,Carbs,Sandwiches,Whole Wheat Sandwiches,1
+TRUMAN,Carbs,Sandwiches,Cucumber Sandwiches,1
+TRUMAN,Carbs,"Stuffing, Dressing",Oyster Dressing,1
+TRUMAN,Carbs,"Stuffing, Dressing",Breast of Guinea Chicken on Prune Dressing with Currant Jelly,1
+TRUMAN,Carbs,Cheese Pastries,Cheese Crescents,2
+TRUMAN,Carbs,Cheese Pastries,Cheese Straws,4
+TRUMAN,Carbs,Potatoes,Brown Potato Balls,1
+TRUMAN,Carbs,Potatoes,Fried Potato Balls,1
+TRUMAN,Carbs,Potatoes,French Fried Potato Balls,1
+TRUMAN,Carbs,Potatoes,Shoestring Potatoes,4
+TRUMAN,Carbs,Wheat Hearts,Wheat Hearts,1
+TRUMAN,Carbs,Canapes,Canapes,15
+TRUMAN,Carbs,Fritos,Fritos,2
+TRUMAN,Carbs,Steamed Rice,Steamed Rice,1
+TRUMAN,Carbs,Onion Rings,Fried Onion Rings,1
+TRUMAN,Vegetables,Casserole,Casserole of Squash,1
+TRUMAN,Vegetables,Melons,Melons,1
+TRUMAN,Vegetables,Melons,Honeydew Melon,1
+TRUMAN,Vegetables,Melons,Watermelon Balls in Mint Lime Rickey,2
+TRUMAN,Vegetables,Melons,Mint Watermelon Balls in Gingerale,1
+TRUMAN,Vegetables,Melons,Persian Melon,1
+TRUMAN,Vegetables,Cucumbers,Cucumbers and Sour Cream,2
+TRUMAN,Vegetables,Cucumbers,Sliced Tomatoes and Cucumbers,1
+TRUMAN,Vegetables,Cucumbers,Parsleyed Sliced Tomatoes and Cucumbers,1
+TRUMAN,Vegetables,Cucumbers,Stuffed Cucumbers with Bread Crumbs,1
+TRUMAN,Vegetables,Peas,Buttered Peas,1
+TRUMAN,Vegetables,Tomatoes,Scalloped Tomatoes,1
+TRUMAN,Vegetables,Tomatoes,Sliced Tomatoes and Cucumbers,1
+TRUMAN,Vegetables,Tomatoes,Parsleyed Sliced Tomatoes and Cucumbers,1
+TRUMAN,Vegetables,Tomatoes,Baked Stuffed Tomatoes with Mushrooms,3
+TRUMAN,Vegetables,Tomatoes,Grilled Tomatoes,1
+TRUMAN,Vegetables,Corn,Spanish Corn,1
+TRUMAN,Vegetables,Potatoes,New Potatoes (Browned),1
+TRUMAN,Vegetables,Potatoes,New Potatoes (Parsley and Buttered),1
+TRUMAN,Vegetables,Potatoes,Buttered New Potatoes,1
+TRUMAN,Vegetables,Sweet Potatoes,Candied Sweet Potatoes,2
+TRUMAN,Vegetables,Pickles,Pickled Peaches,1
+TRUMAN,Vegetables,Pickles,Watermelon Pickles,2
+TRUMAN,Vegetables,Pickles,Pickled Beets,3
+TRUMAN,Vegetables,Celery,Celery,2
+TRUMAN,Vegetables,Celery,Curled Celery,1
+TRUMAN,Vegetables,Celery,Celery Hearts,14
+TRUMAN,Vegetables,Olives,Olives,2
+TRUMAN,Vegetables,Olives,Assorted Olives,15
+TRUMAN,Vegetables,Carrots,Glazed Carrots,1
+TRUMAN,Vegetables,Carrots,Julienne Carrots,1
+TRUMAN,Vegetables,Carrots,Candied Carrots,2
+TRUMAN,Vegetables,Cauliflower,Cauliflower in Mustard Sauce,1
+TRUMAN,Vegetables,Cauliflower,Cauliflower au Gratin,1
+TRUMAN,Vegetables,Cauliflower,Cauliflower Au Hollandaise,1
+TRUMAN,Vegetables,Mushrooms,Mushrooms,1
+TRUMAN,Vegetables,Mushrooms,Baked Stuffed Tomatoes with Mushrooms,3
+TRUMAN,Vegetables,Mushrooms,Broiled Mushrooms,1
+TRUMAN,Vegetables,Mushrooms,Smothered Mushrooms,1
+TRUMAN,Vegetables,Beets,Buttered Beets,1
+TRUMAN,Vegetables,Beets,Harvard Beets,2
+TRUMAN,Vegetables,Cranberries,Cranberry Sauce,2
+TRUMAN,Vegetables,Asparagus,Fresh Asparagus,1
+TRUMAN,Vegetables,Asparagus,Asparagus,1
+TRUMAN,Vegetables,Asparagus,Asparagus with Lemon Drawn Butter,1
+TRUMAN,Vegetables,Asparagus,Buttered Asparagus,4
+TRUMAN,Vegetables,Asparagus,Hot Asparagus with Hollandaise Sauce,1
+TRUMAN,Vegetables,Asparagus,Asparagus Hollandaise,1
+TRUMAN,Vegetables,Asparagus,Asparagus Au Hollandaise,1
+TRUMAN,Vegetables,Lemons,Lemon Slices,1
+TRUMAN,Vegetables,Lemons,Lemon and Lime Wedges,1
+TRUMAN,Vegetables,Spinach,Baked Spinach,1
+TRUMAN,Vegetables,Spinach,Spinach Goldenrod,2
+TRUMAN,Vegetables,Eggplant,French Fried Eggplant,1
+TRUMAN,Vegetables,Oranges,Baked Oranges,1
+TRUMAN,Vegetables,Green Beans,Green Beans,3
+TRUMAN,Vegetables,Green Beans,String Beans,1
+TRUMAN,Vegetables,Green Beans,French String Beans,1
+TRUMAN,Vegetables,Green Beans,Buttered Green Beans,1
+TRUMAN,Vegetables,Green Beans,Buttered String beans,5
+TRUMAN,Wine,Hard Liquor,Old Jack,1
+TRUMAN,Wine,Hard Liquor,Martinis,16
+TRUMAN,Wine,Hard Liquor,Daiquiris,2
+TRUMAN,Wine,Hard Liquor,Scotch,1
+TRUMAN,Wine,Hard Liquor,Old Fashioneds,13
+TRUMAN,Wine,Juice,Orange Juice,13
+TRUMAN,Wine,Juice,Tomato Juice,16
+TRUMAN,Wine,Juice,White Grape Juice,2
+TRUMAN,Wine,White Wine,White Wine,5
+TRUMAN,Wine,Red Wine,Red Wine,2
+TRUMAN,Wine,Red Wine,Sauterne,4
+TRUMAN,Wine,Champagne,Champagne,10
+TRUMAN,Wine,Burgundy,Sparkling,1
+TRUMAN,Wine,Sherry,Sherry,4
+TRUMAN,Soup/Salad,Tossed,Tossed Salad,1
+TRUMAN,Soup/Salad,Soup,Cream of Mushroom,1
+TRUMAN,Soup/Salad,Soup,Minestrone Soup with Parmesan Cheese,2
+TRUMAN,Soup/Salad,Soup,Minestrone Soup,2
+TRUMAN,Soup/Salad,Soup,New England Fish Chowder,1
+TRUMAN,Soup/Salad,Soup,Oyster Soup,1
+TRUMAN,Soup/Salad,Soup,Clear Soup,3
+TRUMAN,Soup/Salad,Soup,Clear Soup with Marrow Balls,1
+TRUMAN,Soup/Salad,Soup,Clear Soup with Egg Balls,1
+TRUMAN,Soup/Salad,Soup,Soup Julienne,1
+TRUMAN,Soup/Salad,Soup,Consommé - Egg Drops,1
+TRUMAN,Soup/Salad,Soup,Beef Consommé with Cream Almond Dumplings,1
+TRUMAN,Soup/Salad,Soup,Vegetable Soup,1
+TRUMAN,Soup/Salad,Soup,Almond Soup with Chopped Parsley,1
+TRUMAN,Soup/Salad,Cheese,Blue Cheese,3
+TRUMAN,Soup/Salad,Cheese,Gruyere Cheese,1
+TRUMAN,Soup/Salad,Cheese,Pineapple Salad with Cheese Balls,1
+TRUMAN,Soup/Salad,Cheese,Camembert,1
+TRUMAN,Soup/Salad,Fruit Cup,Brandied Fruit Cup,1
+TRUMAN,Soup/Salad,Fruit Cup,Brandied Mint Orange Cup,1
+TRUMAN,Soup/Salad,Lettuce,Lettuce with French Dressing,1
+TRUMAN,Soup/Salad,Lettuce,Hearts of Lettuce with French Dressing,1
+TRUMAN,Soup/Salad,Lettuce,Lettuce Salad with Roquefort Dressing,1
+TRUMAN,Soup/Salad,Lettuce,Shredded Lettuce with French Dressing,1
+TRUMAN,Soup/Salad,Lettuce,Hearts of Lettuce with Russian Dressing,1
+TRUMAN,Soup/Salad,Lettuce,Hearts of Lettuce with Roquefort Cheese Dressing,1
+TRUMAN,Soup/Salad,Lettuce,Hearts of Lettuce with Roquefort Dressing,2
+TRUMAN,Soup/Salad,Gelatin,Gingerale and Peach Salad,1
+TRUMAN,Soup/Salad,Gelatin,Jellied Madrilene with Horseradish Sauce,1
+TRUMAN,Soup/Salad,Cream Cheese,Cream Cheese Balls Rolled in Parsley and Carrots Shavings with Wine Dressing,2
+TRUMAN,Soup/Salad,Artichokes,Green Salad and Artichoke Hearts with Herb Dressing,2
+TRUMAN,Soup/Salad,Artichokes,Green Salad with Artichoke Hearts,1
+TRUMAN,Soup/Salad,Artichokes,Green Salad and Artichoke Hearts with Herb French Dressing,1
+TRUMAN,Soup/Salad,Avocado,"Orange, Grapefruit, Avocado, and Cress Salad with Honey Dressing",1
+TRUMAN,Soup/Salad,Avocado,"Grapefruit, Avocado, Cress, and Hearts of Palm Salad with Herb Dressing",1
+TRUMAN,Soup/Salad,Avocado,"Avocado, Grapefruit, and Orange Salad with Honey Dressing",1
+TRUMAN,Soup/Salad,Avocado,"Orange, Grapefruit, Avocado, and Cress Salad",1
+TRUMAN,Soup/Salad,Grapefruit,"Orange, Grapefruit, Avocado, and Cress Salad with Honey Dressing",1
+TRUMAN,Soup/Salad,Grapefruit,"Grapefruit, Avocado, Cress, and Hearts of Palm Salad with Herb Dressing",1
+TRUMAN,Soup/Salad,Grapefruit,"Avocado, Grapefruit, and Orange Salad with Honey Dressing",1
+TRUMAN,Soup/Salad,Grapefruit,"Orange, Grapefruit, Avocado, and Cress Salad",1
+TRUMAN,Soup/Salad,Grapefruit,"Orange, Grapefruit, and Hearts of Palm Salad with Honey Dressing",1
+TRUMAN,Soup/Salad,Green Salad,Green Salad with French Dressing,1
+TRUMAN,Soup/Salad,Green Salad,Green Salad and Artichoke Hearts with Herb Dressing,2
+TRUMAN,Soup/Salad,Green Salad,Green Salad with Artichoke Hearts,1
+TRUMAN,Soup/Salad,Green Salad,Green Salad and Artichoke Hearts with Herb French Dressing,1
+TRUMAN,Soup/Salad,Green Salad,Green Salad with Hearts of Palm and French Dressing,1
+TRUMAN,Soup/Salad,Orange,"Orange, Grapefruit, Avocado, and Cress Salad with Honey Dressing",1
+TRUMAN,Soup/Salad,Orange,"Avocado, Grapefruit, and Orange Salad with Honey Dressing",1
+TRUMAN,Soup/Salad,Orange,"Orange, Grapefruit, Avocado, and Cress Salad",1
+TRUMAN,Soup/Salad,Orange,"Orange, Grapefruit, and Hearts of Palm Salad with Honey Dressing",1
+TRUMAN,Soup/Salad,Watercress,"Orange, Grapefruit, Avocado, and Cress Salad with Honey Dressing",1
+TRUMAN,Soup/Salad,Watercress,"Grapefruit, Avocado, Cress, and Hearts of Palm Salad with Herb Dressing",1
+TRUMAN,Soup/Salad,Watercress,Stuffed Endive and Cress Salad with Herb French Dressing,1
+TRUMAN,Soup/Salad,Watercress,"Orange, Grapefruit, Avocado, and Cress Salad",1
+TRUMAN,Soup/Salad,Watercress,Stuffed Endive and Cress Salad with Herb Dressing,1
+TRUMAN,Soup/Salad,Endive,Stuffed Endive and Cress Salad with Herb French Dressing,1
+TRUMAN,Soup/Salad,Endive,Stuffed Endive and Cress Salad with Herb Dressing,1
+TRUMAN,Soup/Salad,Aspic,Tomato Aspic Ring,2
+TRUMAN,Soup/Salad,Palm Hearts,"Grapefruit, Avocado, Cress, and Hearts of Palm Salad with Herb Dressing",1
+TRUMAN,Soup/Salad,Palm Hearts,"Orange, Grapefruit, and Hearts of Palm Salad with Honey Dressing",1
+TRUMAN,Soup/Salad,Palm Hearts,Green Salad with Hearts of Palm and French Dressing,1
+TRUMAN,Soup/Salad,Peaches,Peach Basket Salad,1
+TRUMAN,Dessert,Cream,Bavarian Cream with Strawberry Sauce,1
+TRUMAN,Dessert,Cake,Cup Cakes,4
+TRUMAN,Dessert,Cake,Coconut Cup Cakes,3
+TRUMAN,Dessert,Cake,Sponge Cake Ring,1
+TRUMAN,Dessert,Cake,Angel Food Cake,1
+TRUMAN,Dessert,Cake,Angel Food,4
+TRUMAN,Dessert,Cake,Strawberry Shortcake,1
+TRUMAN,Dessert,Cake,Coconut Cake,1
+TRUMAN,Dessert,Nuts,Nuts,20
+TRUMAN,Dessert,Cookies,Ladyfingers,1
+TRUMAN,Dessert,Cookies,Sponge Drops,3
+TRUMAN,Dessert,Cookies,Vanilla,1
+TRUMAN,Dessert,Coffee,Demi-Tasse,20
+TRUMAN,Dessert,Fruit,Brandied Peaches,5
+TRUMAN,Dessert,Fruit,Macaroon Ice Cream Mold and Brandied Peaches,1
+TRUMAN,Dessert,Fruit,Brandied Marrons,1
+TRUMAN,Dessert,Liqueur,Brandy & Liqueurs,1
+TRUMAN,Dessert,Liqueur,Liqueurs,2
+TRUMAN,Dessert,Liqueur,Liqueurs and Cocktails,1
+TRUMAN,Dessert,Ice Cream,Vanilla Ice Cream Mold,3
+TRUMAN,Dessert,Ice Cream,Vanilla Ice Cream and Orange Ice Molds,1
+TRUMAN,Dessert,Ice Cream,Vanilla Ice Cream Melon Molds,1
+TRUMAN,Dessert,Ice Cream,Vanilla Ice Cream Molds with Crushed Strawberries,1
+TRUMAN,Dessert,Ice Cream,Coffee Ice Cream Molds with Butterscotch Sauce,1
+TRUMAN,Dessert,Ice Cream,Strawberry,1
+TRUMAN,Dessert,Ice Cream,Strawberry Ice Cream Ring Mold with Orange Sherbet,2
+TRUMAN,Dessert,Ice Cream,Chocolate Ice Cream - Miss Margaret,1
+TRUMAN,Dessert,Ice Cream,Vanilla Ice Cream with Chocolate Sauce,1
+TRUMAN,Dessert,Ice Cream,Macaroon Ice Cream Ring Mold and Brandied Peaches,1
+TRUMAN,Dessert,Ice Cream,Macaroon Ice Cream Ring Mold,2
+TRUMAN,Dessert,Ice Cream,Macaroon Ice Cream Ring Mold with Sliced Fresh Peaches,1
+TRUMAN,Dessert,Ice Cream,Macaroon Ice Cream with Rum Sauce,1
+TRUMAN,Dessert,Ice Cream,Ice Cream Snowballs with Chocolate Fudge Sauce,1
+TRUMAN,Dessert,Sherbet,"Orange, Raspberry, and Lime Sherbet Molds",2
+TRUMAN,Dessert,Sherbet,Strawberry Ice Cream Ring Mold with Orange Sherbet,2
+TRUMAN,Dessert,Cigars,Cigars,14
+TRUMAN,Dessert,Cigarettes,Cigarettes,16
+TRUMAN,Dessert,Candy,Candy,4
+TRUMAN,Dessert,Candy,Candies,16
+TRUMAN,Dessert,Pudding,Frozen Pudding Molds with Maple Sauce,1
+TRUMAN,Dessert,Pudding,Frozen Pudding Molds with Maple Syrup,1
+TRUMAN,Dessert,Pudding,Frozen Rum Pudding with Butterscotch Sauce,2
+TRUMAN,Dessert,Petits Fours,Petits Fours,4

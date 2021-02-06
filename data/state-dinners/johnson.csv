@@ -1,0 +1,256 @@
+president,category,subcategory,item,count
+Johnson,Meat,Seafood,Fillet of Sole Amandine,2
+Johnson,Meat,Seafood,Sole Véronique,2
+Johnson,Meat,Seafood,Fillet of Sole Venice,1
+Johnson,Meat,Seafood,Sole Les Pinos,1
+Johnson,Meat,Seafood,Turban of Sole,1
+Johnson,Meat,Seafood,Fillet of Sole White House,1
+Johnson,Meat,Seafood,Fillet of Sole Washington,1
+Johnson,Meat,Seafood,Fillet of Sole Bonne Femme,1
+Johnson,Meat,Seafood,Lobster Thermidor,1
+Johnson,Meat,Seafood,Cold Baby Lobster,1
+Johnson,Meat,Seafood,Cold Baby Lobster White House,1
+Johnson,Meat,Seafood,Lobster Imperial,1
+Johnson,Meat,Seafood,Crabmeat Ravigote,1
+Johnson,Meat,Seafood,Crabmeat Chesapeake,3
+Johnson,Meat,Seafood,Chesapeake Crabmeat Ring,1
+Johnson,Meat,Seafood,Pompano Moro,1
+Johnson,Meat,Seafood,Atlantic Pompano Amandine,1
+Johnson,Meat,Seafood,Florida Pompano,1
+Johnson,Meat,Seafood,Pompano Tropical,1
+Johnson,Meat,Seafood,Florida Pompano Meunière,2
+Johnson,Meat,Seafood,Pompano Henri,1
+Johnson,Meat,Seafood,Brook Trout White House,1
+Johnson,Meat,Seafood,Turbot Washington,1
+Johnson,Meat,Seafood,Turbot Royale,1
+Johnson,Meat,Seafood,Baked Red Snapper,1
+Johnson,Meat,Seafood,Red Snapper Amandine,1
+Johnson,Meat,Seafood,Coquilles St. Jacques,3
+Johnson,Meat,Seafood,Supreme of Shrimp,1
+Johnson,Meat,Seafood,Delices of Maryland,2
+Johnson,Meat,Red,Fillet of Beef Wellington,1
+Johnson,Meat,Red,Fillet of Beef Nemours,1
+Johnson,Meat,Red,Roast Ribs of Beef,1
+Johnson,Meat,Red,Fillet of Beef California,1
+Johnson,Meat,Red,Fillet of Beef Clamart,1
+Johnson,Meat,Red,Roast Sirloin of Beef White House,3
+Johnson,Meat,Red,Roast Sirloin of Beef,7
+Johnson,Meat,Red,Roast Sirloin of Beef Bordelaise,1
+Johnson,Meat,Red,Roast Tenderloin of Beef Bordelaise,1
+Johnson,Meat,Red,Roast Fillet of Beef White House,1
+Johnson,Meat,Red,Roast Tenderloin of Beef,1
+Johnson,Meat,Red,Tenderloin of Beef White House,1
+Johnson,Meat,Red,Fillet of Beef Florentine,1
+Johnson,Meat,Red,Roast Tenderloin of Beef Fleuriste,1
+Johnson,Meat,Red,Sirloin of Beef Culloden,1
+Johnson,Meat,Red,Roast Prime Rib of Beef,1
+Johnson,Meat,Red,Tenderloin of Beef Bordelaise,1
+Johnson,Meat,Red,Roast Sirloin President,1
+Johnson,Meat,Red,Roast Sirloin White House,2
+Johnson,Meat,Red,Filet Mignon Orlich,1
+Johnson,Meat,Red,Filet Mignon White House,1
+Johnson,Meat,Red,Tournedos Baltimore,1
+Johnson,Meat,Red,Tournedos Hunter,1
+Johnson,Meat,Red,Chateaubriand with Bearnaise Sauce,1
+Johnson,Meat,Red,Rack of Lamb Vert Pre,1
+Johnson,Meat,Red,Roast Rack of Lamb,1
+Johnson,Meat,Red,Rack of Lamb,2
+Johnson,Meat,Red,Noisettes of Lamb,1
+Johnson,Meat,Red,Rack of Lamb Persilles,1
+Johnson,Meat,Red,Tenderloin of Veal Princesse,1
+Johnson,Meat,Poultry,Sliced Breast of Pheasant,1
+Johnson,Meat,Poultry,Supreme of Pheasant White House,1
+Johnson,Meat,Poultry,Breast of Pheasant Smitane,1
+Johnson,Meat,Poultry,Supremes of Capon Tudic,1
+Johnson,Meat,Poultry,Roast Squab White House,1
+Johnson,Meat,Poultry,Eggs Tarragon,1
+Johnson,Meat,Poultry,Rock Cornish Game Hen,1
+Johnson,Meat,Poultry,Breast of Cornish Hen Virginia,1
+Johnson,Meat,Poultry,Breast of Duckling à l'Orange,1
+Johnson,Meat,Poultry,Roast Duckling White House,1
+Johnson,Meat,Poultry,Roast Duckling Bigarade,3
+Johnson,Meat,Mousse,Crabmeat Mousse,1
+Johnson,Meat,Aspic,Baby Lobster en Bellevue,1
+Johnson,Meat,Aspic,Lobster en Bellevue,2
+Johnson,Carbs,Yorkshire Pudding,Yorkshire Pudding,2
+Johnson,Carbs,Croquettes,Berny Potatoes,1
+Johnson,Carbs,Croquettes,Almond Potato Croquettes,1
+Johnson,Carbs,Pastries,Potato Galettes,1
+Johnson,Carbs,Pastries,Potato Beignets,1
+Johnson,Carbs,Pastries,Almond Potato Puffs,1
+Johnson,Carbs,Pastries,Fleurons,1
+Johnson,Carbs,Pastries,Anchovy Straws,2
+Johnson,Carbs,Potatoes,Duchess Potatoes,4
+Johnson,Carbs,Potatoes,Waffle Potatoes,1
+Johnson,Carbs,Potatoes,Noisettes Potatoes,1
+Johnson,Carbs,Potatoes,Rissole Potatoes,4
+Johnson,Carbs,Potatoes,Dauphine Potatoes,5
+Johnson,Carbs,Potatoes,Potatoes Anna,1
+Johnson,Carbs,Vol-au-Vent,Vol-au-vent of Seafood Newberg,3
+Johnson,Carbs,Vol-au-Vent,Seafood Vol-au-vent,3
+Johnson,Carbs,Vol-au-Vent,Bouchée of Lobster Newberg,1
+Johnson,Carbs,Crepes,Crabmeat Crepes,1
+Johnson,Carbs,Rice,Wild Rice,6
+Johnson,Carbs,Rice,Wild Rice Amandine,1
+Johnson,Vegetables,Mousse,Cucumber Mousse,3
+Johnson,Vegetables,Puree,Purée Favorite,2
+Johnson,Vegetables,Vegetables,Bouquet of Vegetables,2
+Johnson,Vegetables,Peas,Green Peas Mornay,1
+Johnson,Vegetables,Peas,French Peas,1
+Johnson,Vegetables,Peas,June Peas,1
+Johnson,Vegetables,Tomatoes,Tomatoes with Mushrooms,1
+Johnson,Vegetables,Tomatoes,Princess Tomatoes,1
+Johnson,Vegetables,Tomatoes,Broiled Tomatoes,1
+Johnson,Vegetables,Potatoes,New Potatoes,1
+Johnson,Vegetables,Potatoes,Parsleyed New Potatoes,2
+Johnson,Vegetables,Potatoes,Potatoes Empire,1
+Johnson,Vegetables,Potatoes,Wisconsin Potatoes,1
+Johnson,Vegetables,Potatoes,Potatoes White House,1
+Johnson,Vegetables,Potatoes,Parisienne Potatoes,1
+Johnson,Vegetables,Celery,Braised Celery,2
+Johnson,Vegetables,Carrots,Glazed Baby Carrots,1
+Johnson,Vegetables,Cauliflower,Cauliflower au Gratin,1
+Johnson,Vegetables,Mushrooms,Tomatoes with Mushrooms,1
+Johnson,Vegetables,Mushrooms,Stuffed Mushrooms,1
+Johnson,Vegetables,Asparagus,Fresh Asparagus,2
+Johnson,Vegetables,Asparagus,White Asparagus Polonaise,1
+Johnson,Vegetables,Asparagus,Asparagus Hollandaise,3
+Johnson,Vegetables,Lettuce,Braised Lettuce,1
+Johnson,Vegetables,Zucchini,Fresh Zucchini Niçoise,1
+Johnson,Vegetables,Zucchini,Zucchini Niçoise,1
+Johnson,Vegetables,Zucchini,Zucchini Provençale,1
+Johnson,Vegetables,Artichokes,Artichokes with Vegetable Puree,1
+Johnson,Vegetables,Artichokes,Artichokes White House,1
+Johnson,Vegetables,Artichokes,Artichokes Gastronomes,1
+Johnson,Vegetables,Artichokes,Artichokes Mornay,1
+Johnson,Vegetables,Artichokes,Artichoke Bottoms (Choron),1
+Johnson,Vegetables,Spinach,Creamed Spinach,5
+Johnson,Vegetables,Eggplant,Eggplant Niçoise,3
+Johnson,Vegetables,Eggplant,Eggplant Provençale,1
+Johnson,Vegetables,Endive,Braised Endive,1
+Johnson,Vegetables,Green Beans,Green Beans Mornay,1
+Johnson,Vegetables,Green Beans,String Beans Amandine,1
+Johnson,Vegetables,Green Beans,Green Beans Amandine,3
+Johnson,Vegetables,Green Beans,Green Beans aux Champignons,1
+Johnson,Vegetables,Green Beans,String Beans Stroganoff,2
+Johnson,Vegetables,Green Beans,Fresh Green Beans,1
+Johnson,Vegetables,Green Beans,Green Beans au Gratin,3
+Johnson,Wine,Burgundy,Pommard Billardet Hospices de Beaune,5
+Johnson,Wine,Burgundy,Pommard Les Grands Epenots,1
+Johnson,Wine,Bordeaux,Château Gruaud Larose,1
+Johnson,Wine,Soave,Bolla,1
+Johnson,Wine,Pinot Noir,Beaulieu Beaumont,3
+Johnson,Wine,Pinot Noir,Louis Martini,5
+Johnson,Wine,Pinot Noir,Inglenook,3
+Johnson,Wine,Pinot Noir,Martin Ray,1
+Johnson,Wine,Pinot Noir,Charles Krug,2
+Johnson,Wine,Champagne,Dom Pérignon,3
+Johnson,Wine,Champagne,Paul Ruinart Blanc de Blancs,1
+Johnson,Wine,Champagne,Piper-Heidsieck,4
+Johnson,Wine,Sparkling,Almaden Blanc de Blancs,45
+Johnson,Wine,Sparkling,Hanns Kornell Brut,1
+Johnson,Wine,Chablis,Krug,2
+Johnson,Wine,Chablis,Beaulieu,1
+Johnson,Wine,Sauvignon Blanc,Krug Chenin Blanc,1
+Johnson,Wine,Sauvignon Blanc,Wente,2
+Johnson,Wine,Red Wine,Great Western Vin Rouge,5
+Johnson,Wine,Red Wine,Inglenook Tamay,1
+Johnson,Wine,Riesling,Paul Masson Emerald Dry,8
+Johnson,Wine,Riesling,Gold Seal Fournier Nature,3
+Johnson,Wine,Riesling,Charles Krug Johannisberg,9
+Johnson,Wine,Pinot Chardonnay,Almaden,1
+Johnson,Wine,Pinot Chardonnay,Inglenook,5
+Johnson,Wine,Pinot Chardonnay,Wente,14
+Johnson,Wine,Pinot Chardonnay,Charles Krug,1
+Johnson,Wine,Pinot Chardonnay,Beaulieu,4
+Johnson,Wine,Cabernet Sauvignon,Inglenook,3
+Johnson,Wine,Cabernet Sauvignon,Krug,1
+Johnson,Wine,Cabernet Sauvignon,Beaulieu,20
+Johnson,Wine,Sherry,Sherry,1
+Johnson,Wine,Sherry,Almaden,1
+Johnson,Soup/Salad,Meat,Pâté,1
+Johnson,Soup/Salad,Meat,Ham Circles,1
+Johnson,Soup/Salad,Soup,Summer Garden Soup,1
+Johnson,Soup/Salad,Soup,Cream Baltimore,1
+Johnson,Soup/Salad,Soup,Consommé au Quenelles,1
+Johnson,Soup/Salad,Soup,Vichyssoise,1
+Johnson,Soup/Salad,Cheese,Blue Cheese,1
+Johnson,Soup/Salad,Cheese,Brie Cheese,15
+Johnson,Soup/Salad,Cheese,Trappist Cheese,3
+Johnson,Soup/Salad,Cheese,Gourmandise Cheese,1
+Johnson,Soup/Salad,Cheese,Bel Paese Cheese,5
+Johnson,Soup/Salad,Cheese,Tilsit Cheese,1
+Johnson,Soup/Salad,Cheese,Assorted Cheeses,5
+Johnson,Soup/Salad,Cheese,Cheeses,4
+Johnson,Soup/Salad,Mousse,Roquefort Mousse,8
+Johnson,Soup/Salad,Mousse,Cheese Mousse,1
+Johnson,Soup/Salad,Lettuce,Bibb Lettuce Salad,11
+Johnson,Soup/Salad,Lettuce,Bibb Lettuce Lexington,1
+Johnson,Soup/Salad,Lettuce,Romaine and Endive Salad,1
+Johnson,Soup/Salad,Aspic,Galantine of Ham,1
+Johnson,Soup/Salad,Fiesta,Fiesta Salad,1
+Johnson,Soup/Salad,Greens,Hearts of Palm and Garden Greens,1
+Johnson,Soup/Salad,Greens,Salad of Greens,2
+Johnson,Soup/Salad,Greens,Summer Salad Greens,2
+Johnson,Soup/Salad,Greens,Spring Garden Salad,1
+Johnson,Soup/Salad,Greens,Garden Salad,10
+Johnson,Soup/Salad,Green Salad,Green Salad,7
+Johnson,Soup/Salad,Barigoule,Asparagus Bari,1
+Johnson,Soup/Salad,Watercress,Endive and Watercress Salad,8
+Johnson,Soup/Salad,Watercress,Hearts of Palm and Watercress,1
+Johnson,Soup/Salad,Endive,Endive and Watercress Salad,8
+Johnson,Soup/Salad,Endive,Romaine and Endive Salad,1
+Johnson,Soup/Salad,Palm Hearts,Hearts of Palm and Watercress,1
+Johnson,Soup/Salad,Palm Hearts,Hearts of Palm Salad,1
+Johnson,Soup/Salad,Palm Hearts,Hearts of Palm Vinaigrette,2
+Johnson,Soup/Salad,Palm Hearts,Hearts of Palm and Garden Greens,1
+Johnson,Dessert,Bavarian Cream,Bavaroise Sato,1
+Johnson,Dessert,Bavarian Cream,Bavaroise Ceylon,1
+Johnson,Dessert,Bavarian Cream,Awatef Bavarian,1
+Johnson,Dessert,Cake,Charlotte Russe,2
+Johnson,Dessert,Cake,Charlotte Antoinette,1
+Johnson,Dessert,Cake,Strawberry Cake White House,1
+Johnson,Dessert,Cake,Coconut Sagarmatha,1
+Johnson,Dessert,Cake,Strawberry Skiveren,1
+Johnson,Dessert,Cake,Savarin Jubilee,1
+Johnson,Dessert,Cake,Savarin Asunción,1
+Johnson,Dessert,Cake,Yule Log,1
+Johnson,Dessert,Romanoff,Strawberries Romanoff,2
+Johnson,Dessert,Parfait,Coffee Parfait,1
+Johnson,Dessert,Bombe,Raspberry Bombe,1
+Johnson,Dessert,Bombe,Peach Bombe Flambé,1
+Johnson,Dessert,Bombe,Baked Alaska,2
+Johnson,Dessert,Bombe,Baked Alaska Ifane,1
+Johnson,Dessert,Bombe,Mint Cecilia,1
+Johnson,Dessert,Bombe,Norige Jubilee,1
+Johnson,Dessert,Mousse,Chocolate,2
+Johnson,Dessert,Mousse,Bavarian Cream,1
+Johnson,Dessert,Mousse,Mousse London,1
+Johnson,Dessert,Mousse,Mousse Shukri,1
+Johnson,Dessert,Fruit,Peaches Luise,1
+Johnson,Dessert,Fruit,Mango Aissa,1
+Johnson,Dessert,Fruit,Atifet Delight,1
+Johnson,Dessert,Souffle,Souffle Innsbruck,1
+Johnson,Dessert,Souffle,Soufflé Glacé Westminster,1
+Johnson,Dessert,Ice Cream,Glace Tsiranana,1
+Johnson,Dessert,Ice Cream,Glace Macapagal,1
+Johnson,Dessert,Ice Cream,Glace Yameogo,1
+Johnson,Dessert,Ice Cream,Praline Glace,1
+Johnson,Dessert,Ice Cream,Glace India,1
+Johnson,Dessert,Ice Cream,Lemon Glace Helle,1
+Johnson,Dessert,Ice Cream,Glace Rachel,1
+Johnson,Dessert,Ice Cream,Glace Imelda,1
+Johnson,Dessert,Ice Cream,Glace Zara,1
+Johnson,Dessert,Ice Cream,Pears Glacées Sara,1
+Johnson,Dessert,Ice Cream,Marrons Glacés Leila,1
+Johnson,Dessert,Ice Cream,Atifet Delight,1
+Johnson,Dessert,Sherbet,Ring of Sherbet Monastir,1
+Johnson,Dessert,Other,Peach Pahiatua,1
+Johnson,Dessert,Other,Strawberry La Paulina,1
+Johnson,Dessert,Other,Chocolate Mint Bettina,1
+Johnson,Dessert,Ice Ring,Ice Damavand,1
+Johnson,Dessert,Meringue,Meringue Park,1
+Johnson,Dessert,Meringue,Vacherin Chiang Mai,1
+Johnson,Dessert,Meringue,Vacherin Thankolsook,1
+Johnson,Dessert,Sculpture,August Basket,1
+Johnson,Dessert,Petit Fours,Petit Fours Secs,1

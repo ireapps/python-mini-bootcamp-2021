@@ -1,0 +1,461 @@
+president,category,subcategory,item,count
+Reagan,Meat,Seafood,Fillet of Sole with Grapes,1
+Reagan,Meat,Seafood,Cold Lemon Sole with Dill and Cucumber Sauce,1
+Reagan,Meat,Seafood,Poached Halibut Véronique,1
+Reagan,Meat,Seafood,Poached Halibut in Dill Sauce,1
+Reagan,Meat,Seafood,Smoked Fillet of Mountain Trout with Horseradish Sauce,1
+Reagan,Meat,Seafood,Fillet of Mountain Trout Farcie,1
+Reagan,Meat,Seafood,Fillet of Smoked Trout with Horseradish Sauce,1
+Reagan,Meat,Seafood,Smoked Fillet of Trout,1
+Reagan,Meat,Seafood,Supreme of Smoked Trout,1
+Reagan,Meat,Seafood,Poached Fillet of Pompano Beatrix,1
+Reagan,Meat,Seafood,Supreme of Pompano in Champagne,1
+Reagan,Meat,Seafood,Supreme of Pompano à la Meunière,1
+Reagan,Meat,Seafood,Columbia River Salmon with Sauce Verte,1
+Reagan,Meat,Seafood,Columbia River Smoked Salmon with Cucumber Sauce,1
+Reagan,Meat,Seafood,Supreme of Poached Salmon with Dill Sauce,1
+Reagan,Meat,Seafood,Smoked Salmon Cornets,1
+Reagan,Meat,Seafood,Seafood Neptune,1
+Reagan,Meat,Seafood,Chesapeake Bay Crab,1
+Reagan,Meat,Seafood,Poached Turbot with Sauce Aurora,1
+Reagan,Meat,Seafood,Gravlax Rosette with Mustard Sauce,1
+Reagan,Meat,Seafood,"Vegetable Mousse with Seafood, Served with Herb Sauce",1
+Reagan,Meat,Seafood,Angel Hair Pasta with Seafood and Romano Cheese Sauce,1
+Reagan,Meat,Seafood,Shrimp Parfait,1
+Reagan,Meat,Red,Roast Tenderloin of Beef,1
+Reagan,Meat,Red,Roast Contre-filet of Beef,1
+Reagan,Meat,Red,Sliced Tenderloin of Beef with Sauce Choron,1
+Reagan,Meat,Red,Roast Beef Tenderloin Hearts with Sauce Bearnaise,1
+Reagan,Meat,Red,Broiled Tenderloin of Beef with Bearnaise Sauce,1
+Reagan,Meat,Red,Beef Farci en Croute with Truffle Sauce,1
+Reagan,Meat,Red,Fillet of Beef in Pepper Sauce,1
+Reagan,Meat,Red,Roast Tenderloin of Veal Farci,1
+Reagan,Meat,Red,Tenderloin of Veal en Croute with Truffle Sauce,1
+Reagan,Meat,Red,Piccata of Veal,1
+Reagan,Meat,Red,Crown of Veal Medallion with Basil Sauce,1
+Reagan,Meat,Red,Rack of Veal au Poivre,1
+Reagan,Meat,Red,Fillet of Veal with Ginger Sauce,1
+Reagan,Meat,Red,Medallions of Veal in Marsala,1
+Reagan,Meat,Red,Medallion of Veal in Champagne,1
+Reagan,Meat,Red,Tenderloin of Veal in Golden Crust with Truffle Sauce,1
+Reagan,Meat,Red,Medallions of Veal Perigueux,1
+Reagan,Meat,Red,Loin of Veal with Wild Mushrooms and Champagne Sauce,1
+Reagan,Meat,Red,Tenderloin of Veal Wellington,1
+Reagan,Meat,Red,Roast Loin of Veal with Terragon Sauce,1
+Reagan,Meat,Red,Roasted Saddle of Veal Perigourdine,1
+Reagan,Meat,Red,Roast Rack of Lamb with Fresh Mint Sauce,1
+Reagan,Meat,Red,Tenderloin of Lamb in Golden Crust with Fine Herb Sauce,1
+Reagan,Meat,Red,Crown Roast of Lamb,1
+Reagan,Meat,Red,Saddle of Lamb Farci,1
+Reagan,Meat,Red,Fillet of Lamb in Rosemary,1
+Reagan,Meat,Poultry,Supreme of Chicken in Tarragon,1
+Reagan,Meat,Poultry,Supreme of Chicken Véronique,1
+Reagan,Meat,Poultry,Supreme of Chicken with Red Peppers,1
+Reagan,Meat,Poultry,Supreme of Chicken with Mushrooms and Fines Herbes Sauce,1
+Reagan,Meat,Poultry,Supreme of Chicken with Oranges,1
+Reagan,Meat,Poultry,Breast of Chicken Sandeman,1
+Reagan,Meat,Poultry,Supreme of Chicken Bigarade,1
+Reagan,Meat,Poultry,Glazed Chicken Capsicum,1
+Reagan,Meat,Poultry,Chicken Sandeman White House,1
+Reagan,Meat,Poultry,"Breast of Chicken, Sauce Dijon with Tarragon",1
+Reagan,Meat,Poultry,Supreme of Chicken in Golden Leaves,1
+Reagan,Meat,Poultry,Breast of Capon Eugenie,1
+Reagan,Meat,Poultry,Supreme of Capon in Flamed Brandy Sauce,2
+Reagan,Meat,Poultry,Supreme of Capon Smitane,1
+Reagan,Meat,Poultry,Supreme of Capon,1
+Reagan,Meat,Poultry,Supreme of Cornish Hen with Black Cherries,1
+Reagan,Meat,Poultry,Supreme of Cornish Hen with Fines Herbes Sauce,1
+Reagan,Meat,Poultry,Roast Supreme of Duckling à l'Orange,1
+Reagan,Meat,Timbale,Jellied Sole Timbale with Watercress Sauce,1
+Reagan,Meat,Galantine,Chicken Galantine with Tarragon Sauce,1
+Reagan,Meat,Mousse,Cold Salmon and Sole Mousse Doria with Sauce Verte,1
+Reagan,Meat,Mousse,Salmon and Sole Mousse with Coulis of Tomato,1
+Reagan,Meat,Mousse,Salmon and Sole Mousse with Aurora Sauce,1
+Reagan,Meat,Mousse,Turban of Shrimp Mousse with Chive Sauce,1
+Reagan,Meat,Mousse,Poached Salmon and Cucumber Mousse with Red Caviar Sauce,1
+Reagan,Meat,Mousse,Crab and Cucumber Mousse with Horseradish Sauce,1
+Reagan,Meat,Mousse,Lobster Mousseline with Maryland Crab Horseradish Sauce,1
+Reagan,Meat,Mousse,"Crab, Lobster, and Cucumber Mousse",1
+Reagan,Meat,Mousse,Chesapeake Bay Crab Mousse,1
+Reagan,Meat,Mousse,Trout Mousse with Aurora Sauce,1
+Reagan,Meat,Mousse,Lobster Mousse with Fines Herbes Sauce,1
+Reagan,Meat,Mousse,Ham Mousse Cornets,1
+Reagan,Meat,Mousse,Smoked Salmon and Shrimp Mousse with Dilled Cucumber Sauce,1
+Reagan,Meat,Aspic/Jelly,Supreme of Lobster en Gelée with Red Caviar Sauce,1
+Reagan,Meat,Aspic/Jelly,Cold Columbia River Salmon en Gelée with Dill Sauce,1
+Reagan,Meat,Aspic/Jelly,Supreme of Salmon and Lobster en Gelée with Fines Herbes Sauce,1
+Reagan,Meat,Aspic/Jelly,Columbia River Salmon and Lobster Medallions en Gelée with Caviar Sauce,1
+Reagan,Meat,Aspic/Jelly,Maryland Crab and Lobster in Aspic with Fine Herb Sauce,2
+Reagan,Meat,Aspic/Jelly,Columbia River Salmon in Aspic with Herb Sauce,1
+Reagan,Meat,Aspic/Jelly,Fillet of Sole in Aspic with Herbed Mayonnaise,1
+Reagan,Meat,Aspic/Jelly,Fillet of Sole in Aspic with Fines Herbes Sauce,1
+Reagan,Meat,Aspic/Jelly,Lobster in Port Jelly with Remoulade Sauce,1
+Reagan,Meat,Aspic/Jelly,Baby Lobster Bellevue with Caviar Yogurt Sauce,1
+Reagan,Carbs,Pasta,Angel Hair Pasta with Seafood and Romano Cheese Sauce,1
+Reagan,Carbs,Pasta,Risotto,1
+Reagan,Carbs,Pasta,Gnocchi Romano,2
+Reagan,Carbs,Souffle,Souffle Potatoes,3
+Reagan,Carbs,Souffle,Potatoes Souffle,1
+Reagan,Carbs,Bulgar,Minted Bulgar Pilaf,1
+Reagan,Carbs,Pastries,Bow Tie Twists,1
+Reagan,Carbs,Pastries,Golden Bow Ties,1
+Reagan,Carbs,Pastries,Fleurons,7
+Reagan,Carbs,Pastries,Sesame Seed Twists,16
+Reagan,Carbs,Pastries,Poppy Seed Twists,1
+Reagan,Carbs,Pastries,Fennel Seed Twists,1
+Reagan,Carbs,Pastries,Curried Croissant,1
+Reagan,Carbs,Pastries,Pine Nuts and Dill Bow Ties,1
+Reagan,Carbs,Corn,Petits Corn Sticks,1
+Reagan,Carbs,Corn,Savory Cornsticks,1
+Reagan,Carbs,Cheese Pastries,Bow Tie Gruyere Twists with White House Garden Herb Sauce,1
+Reagan,Carbs,Cheese Pastries,Gruyere Bow Ties,1
+Reagan,Carbs,Cheese Pastries,Bow Tie Cheese Twists,1
+Reagan,Carbs,Cheese Pastries,Cheddar Napoleons,1
+Reagan,Carbs,Toast,Rye Points,1
+Reagan,Carbs,Toast,Melba Toast,3
+Reagan,Carbs,Toast,Herbed Rye Melba,1
+Reagan,Carbs,Spaetzle,Fresh Spaetzle,1
+Reagan,Carbs,Pita,Triangles of Pita Bread,1
+Reagan,Carbs,Pita,Pita Bread,1
+Reagan,Carbs,Bread Sticks,Sesame Sticks,1
+Reagan,Carbs,Bread Sticks,Herbed Rye Bread Rounds,1
+Reagan,Carbs,Rice,Wild Rice,4
+Reagan,Carbs,Rice,Wild Rice Amandine,1
+Reagan,Carbs,Rice,Wild Rice with Mushrooms,1
+Reagan,Carbs,Rice,Saffron Rice,2
+Reagan,Carbs,Rice,Wild Rice with Raisins,1
+Reagan,Carbs,Rice,White Rice,1
+Reagan,Carbs,Rice,Wild Rice with Vegetable Brunoise,1
+Reagan,Carbs,Rice,Curried Rice,2
+Reagan,Carbs,Rice,Rice Pilaf,1
+Reagan,Carbs,Rice,Wild Rice with Walnuts,4
+Reagan,Carbs,Rice,Wild Rice with Toasted Walnuts,1
+Reagan,Carbs,Rice,Wild Rice with Grape Tartlettes,1
+Reagan,Carbs,Rice,Sauteed Rice,1
+Reagan,Carbs,Rice,Wild Rice with Hazelnuts,1
+Reagan,Carbs,Rice,Arborio Rice,1
+Reagan,Carbs,Rice,Brown Rice,1
+Reagan,Carbs,Rice,Pilaf Printanier,1
+Reagan,Vegetables,Broccoli,Broccoli Flowers,1
+Reagan,Vegetables,Broccoli,Broccoli in Lemon Butter,1
+Reagan,Vegetables,Vegetables,Garden Vegetables,1
+Reagan,Vegetables,Vegetables,Mixed Vegetables,1
+Reagan,Vegetables,Vegetables,Vegetable Printanière,1
+Reagan,Vegetables,Vegetables,Bouquets of Garden Vegetables,1
+Reagan,Vegetables,Vegetables,Bouquets of Vegetables,1
+Reagan,Vegetables,Vegetables,Spinach with Honey Glazed Vegetables,1
+Reagan,Vegetables,Vegetables,Jardinière of Vegetables,1
+Reagan,Vegetables,Squash,Yellow Squash,1
+Reagan,Vegetables,Squash,Squash with Tomato Relish,1
+Reagan,Vegetables,Squash,Turban of Carrots with Yellow Squash,1
+Reagan,Vegetables,Squash,Garden Green Beans and Yellow Squash,1
+Reagan,Vegetables,Spinach,Spinach Turban with Chanterelles,1
+Reagan,Vegetables,Spinach,Spinach with Honey Glazed Vegetables,1
+Reagan,Vegetables,Cauliflower,Cauliflower and Green Beans,1
+Reagan,Vegetables,Peppers,Puree of Sweet Red Peppers,1
+Reagan,Vegetables,Mousse,Raifort Mousseline,1
+Reagan,Vegetables,Mousse,Dill Mousseline,1
+Reagan,Vegetables,Mousse,"Vegetable Mousse with Seafood, Served with Herb Sauce",1
+Reagan,Vegetables,Corn,Corn Turban,1
+Reagan,Vegetables,Potatoes,Tiny New Potatoes with Artichoke Hearts,1
+Reagan,Vegetables,Potatoes,Tiny Potatoes and Tomatoes Provençale,1
+Reagan,Vegetables,Potatoes,Golden Carrots and New Potatoes,1
+Reagan,Vegetables,Potatoes,Spring Potatoes,1
+Reagan,Vegetables,Potatoes,Roasted Red Bliss Potatoes,1
+Reagan,Vegetables,Celery,Braised Celery au Gratin,1
+Reagan,Vegetables,Lettuce,Romaine Leaves filled with June Peas,1
+Reagan,Vegetables,Turnips,Carrot Puree in Turnip Cups,1
+Reagan,Vegetables,Turnips,Garden Beans and White Turnips,1
+Reagan,Vegetables,Pate,Vegetable Pate with Tomato Coulis,1
+Reagan,Vegetables,Pate,Vegetable Pate,1
+Reagan,Vegetables,Carrots,Carrots and Almond Ring,1
+Reagan,Vegetables,Carrots,Carrot Puree in Turnip Cups,1
+Reagan,Vegetables,Carrots,Carrot Ring,1
+Reagan,Vegetables,Carrots,Braised Fennel and Carrots,1
+Reagan,Vegetables,Carrots,Golden Carrots and New Potatoes,1
+Reagan,Vegetables,Carrots,Carrot Ring and Green Peas,1
+Reagan,Vegetables,Carrots,Zucchini Crown and Julienne Carrots,1
+Reagan,Vegetables,Carrots,Turban of Carrots with Yellow Squash,1
+Reagan,Vegetables,Carrots,Turban of Gingered Carrots,1
+Reagan,Vegetables,Tomatoes,Tiny Potatoes and Tomatoes Provençale,1
+Reagan,Vegetables,Tomatoes,Broiled Tiny Tomatoes,1
+Reagan,Vegetables,Tomatoes,Tomatoes Filled with Tiny Peas,1
+Reagan,Vegetables,Tomatoes,Tarragon Tomatoes,1
+Reagan,Vegetables,Mushrooms,Spinach Turban with Chanterelles,1
+Reagan,Vegetables,Zucchini,Baby Zucchini,1
+Reagan,Vegetables,Zucchini,Zucchini Crown and Julienne Carrots,1
+Reagan,Vegetables,Peas,Snow Peas,1
+Reagan,Vegetables,Peas,Minted Snow Peas,1
+Reagan,Vegetables,Peas,Artichokes with Minted Peas,1
+Reagan,Vegetables,Peas,Carrot Ring and Green Peas,1
+Reagan,Vegetables,Asparagus,Fresh Asparagus,1
+Reagan,Vegetables,Asparagus,Asparagus Hollandaise,1
+Reagan,Vegetables,Asparagus,Garden Asparagus,1
+Reagan,Vegetables,Asparagus,Spring Asparagus,2
+Reagan,Vegetables,Asparagus,Asparagus Mimosa,1
+Reagan,Vegetables,Asparagus,Asparagus en Surprise,1
+Reagan,Vegetables,Asparagus,Fresh Asparagus Polonaise,1
+Reagan,Vegetables,Asparagus,Asparagus with Hazelnut Butter,3
+Reagan,Vegetables,Endive,Braised Endive,2
+Reagan,Vegetables,Artichokes,Artichoke Hearts,1
+Reagan,Vegetables,Artichokes,Tiny New Potatoes with Artichoke Hearts,1
+Reagan,Vegetables,Artichokes,Artichokes St. Germain,1
+Reagan,Vegetables,Artichokes,Artichokes Printanière,1
+Reagan,Vegetables,Artichokes,Artichokes with Minted Peas,1
+Reagan,Vegetables,Timbale,Timbale of Green Beans with Garden Carrots,1
+Reagan,Vegetables,Timbale,Spinach Timbale of Gruyere Souffle,1
+Reagan,Vegetables,Timbale,Broccoli and Walnut Timbale,1
+Reagan,Vegetables,Eggplant,Tiny Eggplants Filled with Saffron Rice,1
+Reagan,Vegetables,Green Beans,Green Beans Amandine,1
+Reagan,Vegetables,Green Beans,Green Beans in Butter,1
+Reagan,Vegetables,Green Beans,Garden Beans and White Turnips,1
+Reagan,Vegetables,Green Beans,Green Garden Beans,1
+Reagan,Vegetables,Green Beans,Garden Green Beans and Yellow Squash,1
+Reagan,Vegetables,Green Beans,Cauliflower and Green Beans,1
+Reagan,Wine,Sauvignon Blanc,Pellegrini Blanc Chalk Hill Fume,1
+Reagan,Wine,Sauvignon Blanc,Robert Mondavi Fume Blanc Reserve,1
+Reagan,Wine,Sauvignon Blanc,Robert Mondavi Fume Blanc,1
+Reagan,Wine,Sauvignon Blanc,Adler Fels Fume Blanc,1
+Reagan,Wine,Sauvignon Blanc,Grgich Hills Fume Blanc,1
+Reagan,Wine,Sauvignon Blanc,Napa Valley,1
+Reagan,Wine,Sauvignon Blanc,Stephens,1
+Reagan,Wine,Sauvignon Blanc,Carmenet,1
+Reagan,Wine,Sauvignon Blanc,Kendall-Jackson Chevriot du Lac,1
+Reagan,Wine,Merlot,Souverain Merlot Vintage Selection,1
+Reagan,Wine,Merlot,Mill Creek,1
+Reagan,Wine,Merlot,Chateau Julien,1
+Reagan,Wine,Merlot,Boeger,1
+Reagan,Wine,Merlot,St. Francis,1
+Reagan,Wine,Pinot Noir,Chalone Vineyard Vin Gris,1
+Reagan,Wine,Pinot Noir,Robert Mondavi,1
+Reagan,Wine,Pinot Noir,Buena Vista Special Selection,1
+Reagan,Wine,Pinot Noir,Saintsbury,1
+Reagan,Wine,Pinot Noir,Edna Valley,1
+Reagan,Wine,Pinot Noir,Saintsbury Garnet,2
+Reagan,Wine,Pinot Noir,Ruston Cellars,1
+Reagan,Wine,Pinot Noir,Carneros Creek,1
+Reagan,Wine,Pinot Noir,Leardini,1
+Reagan,Wine,Pinot Noir,Calera,1
+Reagan,Wine,Pinot Noir,Carneros,1
+Reagan,Wine,Pinot Noir,Williams Selyem,1
+Reagan,Wine,Healdsburger,Balverne,1
+Reagan,Wine,Kleinberger,Gundlach Bundschu,1
+Reagan,Wine,Muscat,Paulsen Muscat Canelli,1
+Reagan,Wine,Opus One,Opus One 1982,1
+Reagan,Wine,Beaujolais,Gan Eden,1
+Reagan,Wine,Gewurztraminer,Navarro,1
+Reagan,Wine,Zinfandel,Ridge Amador,1
+Reagan,Wine,Zinfandel,Simi,1
+Reagan,Wine,Chenin Blanc,Stag’s Leap,1
+Reagan,Wine,Chenin Blanc,Girard,1
+Reagan,Wine,Chenin Blanc,Grand Cru Dry,1
+Reagan,Wine,Sparkling,Korbel Sec,1
+Reagan,Wine,Sparkling,Korbel Blanc de Noirs,3
+Reagan,Wine,Sparkling,Schramsberg Blanc de Blancs,3
+Reagan,Wine,Sparkling,Domaine Chandon Blanc de Noirs,4
+Reagan,Wine,Sparkling,Chandon Blanc de Noirs,2
+Reagan,Wine,Sparkling,Schramsberg Crémant Demi-sec,21
+Reagan,Wine,Sparkling,Almaden Eye of the Partridge Cuvée,1
+Reagan,Wine,Sparkling,Scharffenberger Brut,1
+Reagan,Wine,Sparkling,Schramsberg Cuvée de Pinot,2
+Reagan,Wine,Sparkling,Van der Kamp Brut Rosé,2
+Reagan,Wine,Sparkling,Van der Kamp Brut,1
+Reagan,Wine,Sparkling,Culbertson Cuvée de Frontignan,1
+Reagan,Wine,Sparkling,"Domaine Mumm, Cuvée Napa",1
+Reagan,Wine,Sparkling,Kedem Extra Dry,1
+Reagan,Wine,Sparkling,Iron Horse Brut Summit Cuvée,1
+Reagan,Wine,Sparkling,S. Anderson Blanc de Noirs,1
+Reagan,Wine,Riesling,Johannisberg Riesling,1
+Reagan,Wine,Riesling,Johannisberg Riesling Hagafen Kosher,1
+Reagan,Wine,Chardonnay,Firestone Vineyard,1
+Reagan,Wine,Chardonnay,Trefethen,3
+Reagan,Wine,Chardonnay,Christian Brothers,1
+Reagan,Wine,Chardonnay,Grgich Hills,1
+Reagan,Wine,Chardonnay,Chateau Montelena,2
+Reagan,Wine,Chardonnay,Acacia,1
+Reagan,Wine,Chardonnay,Shafer,1
+Reagan,Wine,Chardonnay,ZD Chardonnay,1
+Reagan,Wine,Chardonnay,Ventana,1
+Reagan,Wine,Chardonnay,Zaca Mesa American State,1
+Reagan,Wine,Chardonnay,Edna Valley,1
+Reagan,Wine,Chardonnay,Vichon,1
+Reagan,Wine,Chardonnay,Pine Ridge,1
+Reagan,Wine,Chardonnay,Far Niente,1
+Reagan,Wine,Chardonnay,Franciscan Chardonnay Estate,1
+Reagan,Wine,Chardonnay,Matanzas Creek,1
+Reagan,Wine,Chardonnay,Kistler Dutton Ranch,1
+Reagan,Wine,Chardonnay,Lambert Bridge,1
+Reagan,Wine,Chardonnay,Cakebread,1
+Reagan,Wine,Chardonnay,Stony Hill,1
+Reagan,Wine,Chardonnay,Bacigalupi,1
+Reagan,Wine,Chardonnay,Jordan,3
+Reagan,Wine,Chardonnay,Quail Ridge,1
+Reagan,Wine,Chardonnay,Clos du Bois Calcaire,1
+Reagan,Wine,Chardonnay,Sonoma-Cutrer,2
+Reagan,Wine,Chardonnay,Monticello,1
+Reagan,Wine,Chardonnay,Clos du Bois,1
+Reagan,Wine,Chardonnay,Hagafen,1
+Reagan,Wine,Chardonnay,Silverado,1
+Reagan,Wine,Chardonnay,Boyer,1
+Reagan,Wine,Chardonnay,Saintsbury,1
+Reagan,Wine,Cabernet Sauvignon,Robert Mondavi,1
+Reagan,Wine,Cabernet Sauvignon,Jordan,7
+Reagan,Wine,Cabernet Sauvignon,Inglenook,1
+Reagan,Wine,Cabernet Sauvignon,Knights Valley Estate Beringer,1
+Reagan,Wine,Cabernet Sauvignon,Silver Oak,2
+Reagan,Wine,Cabernet Sauvignon,Fetzer,1
+Reagan,Wine,Cabernet Sauvignon,Clos du Val,1
+Reagan,Wine,Cabernet Sauvignon,Conn Creek,1
+Reagan,Wine,Cabernet Sauvignon,Stag’s Leap Cabernet Sauvignon Lot 2,1
+Reagan,Wine,Cabernet Sauvignon,Domaine Michel,1
+Reagan,Wine,Cabernet Sauvignon,Stag’s Leap Wine Cellars,1
+Reagan,Soup/Salad,Cheese,Brie Cheese,7
+Reagan,Soup/Salad,Cheese,Port Salut Cheese,8
+Reagan,Soup/Salad,Cheese,Brie and Chevre Cheeses,1
+Reagan,Soup/Salad,Cheese,Brie aux Fines Herbes,2
+Reagan,Soup/Salad,Cheese,Reblochon Cheese,2
+Reagan,Soup/Salad,Cheese,Gourmandise Cheese with Walnuts,1
+Reagan,Soup/Salad,Cheese,Saint Nectaire Cheese,1
+Reagan,Soup/Salad,Cheese,Saint Paulin Cheese,2
+Reagan,Soup/Salad,Cheese,Delice de France,1
+Reagan,Soup/Salad,Cheese,Bel Paese Cheese,3
+Reagan,Soup/Salad,Cheese,Assorted Cheeses,1
+Reagan,Soup/Salad,Cheese,Trappist Cheese,1
+Reagan,Soup/Salad,Cheese,Reblochon and Saint Paulin Cheeses,1
+Reagan,Soup/Salad,Cheese,Brillat-Savarin Cheese,1
+Reagan,Soup/Salad,Cheese,Grape Cheese,1
+Reagan,Soup/Salad,Cheese,Cheddar Cheese,1
+Reagan,Soup/Salad,Cheese,Chevre Cheese,1
+Reagan,Soup/Salad,Cheese,Brie Cheese with Toasted Almonds,1
+Reagan,Soup/Salad,Cheese,Tilsiter Cheese,1
+Reagan,Soup/Salad,Cheese,Coulommiers and Saint Paulin Cheeses,1
+Reagan,Soup/Salad,Cheese,Cambozola Blue Cheese,1
+Reagan,Soup/Salad,Cheese,Brie Cheese with Crushed Walnuts,1
+Reagan,Soup/Salad,Cheese,Stilton Cheese,1
+Reagan,Soup/Salad,Cheese,Selection of Cheese,1
+Reagan,Soup/Salad,Cheese,Native Chevre Cheese,1
+Reagan,Soup/Salad,Lettuce,Bibb Lettuce Salad,6
+Reagan,Soup/Salad,Lettuce,"Escarole, Bibb Lettuce, and Avocado Salad",1
+Reagan,Soup/Salad,Lettuce,Bibb Lettuce with Endive,1
+Reagan,Soup/Salad,Lettuce,Bibb Lettuce and Radicchio Salad,1
+Reagan,Soup/Salad,Lettuce,Bibb Lettuce and Radicchio Salad with Walnut Dressing,1
+Reagan,Soup/Salad,Lettuce,Radicchio and Romaine Hearts Salad,1
+Reagan,Soup/Salad,Lettuce,Bibb Lettuce and Garden Chives,1
+Reagan,Soup/Salad,Lettuce,Fennel and Red Leaf Lettuce,1
+Reagan,Soup/Salad,Lettuce,Pistachio and Romaine Hearts Salad,1
+Reagan,Soup/Salad,Lettuce,Bibb Lettuce and Hearts of Palm Salad,1
+Reagan,Soup/Salad,Lettuce,Bibb Lettuce with Raspberry Vinaigrette,1
+Reagan,Soup/Salad,Lettuce,Hearts of Lettuce,1
+Reagan,Soup/Salad,Endive,"Escarole, Bibb Lettuce, and Avocado Salad",1
+Reagan,Soup/Salad,Endive,"Escarole, Mache Salad with Olive Oil and Lemon Dressing",1
+Reagan,Soup/Salad,Endive,"Endive, Mache, and Radicchio Salad with Balsamic Vinaigrette",1
+Reagan,Soup/Salad,Endive,Belgian Endive and Field Salad,1
+Reagan,Soup/Salad,Endive,Red Beets and Belgian Endive Salad,1
+Reagan,Soup/Salad,Endive,Spinach and Endive Salad with Sesame and Almond Dressing,1
+Reagan,Soup/Salad,Endive,Endive and Chicory Salad,1
+Reagan,Soup/Salad,Endive,Bibb Lettuce with Endive,1
+Reagan,Soup/Salad,Endive,Belgian Endive and Watercress Salad,1
+Reagan,Soup/Salad,Endive,Endive and Watercress Salad,4
+Reagan,Soup/Salad,Watercress,Watercress and Mushroom Salad,3
+Reagan,Soup/Salad,Watercress,Hearts of Palm and Watercress Salad,1
+Reagan,Soup/Salad,Watercress,Belgian Endive and Watercress Salad,1
+Reagan,Soup/Salad,Watercress,Endive and Watercress Salad,4
+Reagan,Soup/Salad,Watercress,Watercress and Radicchio Salad,2
+Reagan,Soup/Salad,Radicchio,Bibb Lettuce and Radicchio Salad,1
+Reagan,Soup/Salad,Radicchio,Bibb Lettuce and Radicchio Salad with Walnut Dressing,1
+Reagan,Soup/Salad,Radicchio,Radicchio and Romaine Hearts Salad,1
+Reagan,Soup/Salad,Radicchio,Radicchio Blossom Salad with Honey Vinaigrette,1
+Reagan,Soup/Salad,Radicchio,"Endive, Mache, and Radicchio Salad with Balsamic Vinaigrette",1
+Reagan,Soup/Salad,Radicchio,Watercress and Radicchio Salad,2
+Reagan,Soup/Salad,Mushrooms,Watercress and Mushroom Salad,3
+Reagan,Soup/Salad,Mushrooms,Enoki and Hearts of Palm Salad,1
+Reagan,Soup/Salad,Spinach,Spinach Salad,2
+Reagan,Soup/Salad,Spinach,Spinach and Endive Salad with Sesame and Almond Dressing,1
+Reagan,Soup/Salad,Spinach,Spinach and Water Chestnut Salad,1
+Reagan,Soup/Salad,Avocado,"Escarole, Bibb Lettuce, and Avocado Salad",1
+Reagan,Soup/Salad,Oranges,Mandarin Sunflower Salad,1
+Reagan,Soup/Salad,Jicama,Jicama Salad with Herbed Cheese and Croutons,1
+Reagan,Soup/Salad,Beets,Red Beets and Belgian Endive Salad,1
+Reagan,Soup/Salad,Nasturtium,Nasturtium Flower Salad,1
+Reagan,Soup/Salad,Nuts,Spinach and Water Chestnut Salad,1
+Reagan,Soup/Salad,Nuts,Gourmandise Cheese with Walnuts,1
+Reagan,Soup/Salad,Nuts,Pistachio and Romaine Hearts Salad,1
+Reagan,Soup/Salad,Nuts,Garden Green Salad with Walnuts,1
+Reagan,Soup/Salad,Greens,Garden Green Salad with Walnuts,1
+Reagan,Soup/Salad,Greens,Mixed Garden Salad,1
+Reagan,Soup/Salad,Greens,Garden Salad with Cheddar Cheese,1
+Reagan,Soup/Salad,Greens,Garden Salad with Chive Dressing,1
+Reagan,Soup/Salad,Greens,Belgian Endive and Field Salad,1
+Reagan,Soup/Salad,Greens,Garden Salad with Mustard Seed Vinaigrette,1
+Reagan,Soup/Salad,Greens,"Escarole, Mache Salad with Olive Oil and Lemon Dressing",1
+Reagan,Soup/Salad,Greens,Medley of Garden Greens,1
+Reagan,Soup/Salad,Greens,"Endive, Mache and Radicchio Salad with Balsamic Vinaigrette",1
+Reagan,Soup/Salad,Greens,Autumn Mixed Salad,1
+Reagan,Soup/Salad,Palm Hearts,Bibb Lettuce and Hearts of Palm Salad,1
+Reagan,Soup/Salad,Palm Hearts,Hearts of Palm and Watercress Salad,1
+Reagan,Soup/Salad,Palm Hearts,Enoki and Hearts of Palm Salad,1
+Reagan,Dessert,Cookies,Almond Tuiles,1
+Reagan,Dessert,Cookies,Assorted Macaroons,1
+Reagan,Dessert,Cookies,Biscuits sec,1
+Reagan,Dessert,Cookies,Orange Tuiles and Ginger Twigs,1
+Reagan,Dessert,Cake,Pineapple en Surprise,1
+Reagan,Dessert,Cake,Pear en Surprise,1
+Reagan,Dessert,Mousse,Chocolate Mousse,1
+Reagan,Dessert,Mousse,Peach Mousse with Champagne Sauce,1
+Reagan,Dessert,Mousse,Honey Liqueur Mousseline,1
+Reagan,Dessert,Mousse,Pistachio Marquise,1
+Reagan,Dessert,Mousse,Red Bartlett Pear Mousse,1
+Reagan,Dessert,Mousse,Chestnut Marquise with Pistachio Sauce,1
+Reagan,Dessert,Mousse,Gianduja Mousse with Praline Sauce,1
+Reagan,Dessert,Fruit,Fresh Raspberries,1
+Reagan,Dessert,Fruit,Watermelon filled with Macédoine of Fresh Fruit,1
+Reagan,Dessert,Fruit,Apricot Slices,1
+Reagan,Dessert,Fruit,Pomegranate Sorbet with Fresh Fruit,1
+Reagan,Dessert,Fruit,Raspberry Baskets,1
+Reagan,Dessert,Fruit,Gin Parfait with Honey Grapefruit,1
+Reagan,Dessert,Sorbet,Fantasie of Pear Sorbet in a Basket,1
+Reagan,Dessert,Sorbet,Pomegranate Sorbet with Fresh Fruit,1
+Reagan,Dessert,Sorbet,Orange Sorbet Valencia,1
+Reagan,Dessert,Sorbet,Springtime Sorbet,1
+Reagan,Dessert,Sorbet,Coconut Sorbet,1
+Reagan,Dessert,Sorbet,Peach Sorbet Basket with Champagne Sauce,1
+Reagan,Dessert,Sorbet,Rose Sorbet,1
+Reagan,Dessert,Sorbet,Lemon Sorbet Basket,1
+Reagan,Dessert,Sorbet,Tea Sorbet in Honey Ice Cream,1
+Reagan,Dessert,Sorbet,Lady Apple Sorbet,1
+Reagan,Dessert,Sorbet,Pineapple Champagne Sorbet,1
+Reagan,Dessert,Souffle,Grand Marnier Souffle,1
+Reagan,Dessert,Souffle,Frozen Lemon Souffle with Fresh Raspberries,1
+Reagan,Dessert,Souffle,Lemon Souffle with Blackberry Sauce,1
+Reagan,Dessert,Souffle,Lemon Souffle with Raspberry Sauce,1
+Reagan,Dessert,Souffle,Cold Lime Souffle with Fresh Figs,1
+Reagan,Dessert,Souffle,Hot Dried Pear Souffle with Cinnamon Whipped Cream and Caramel Pear Sauce,1
+Reagan,Dessert,Souffle,Souffle Frangelica,1
+Reagan,Dessert,Ice Cream,Melon Glace en Surprise,1
+Reagan,Dessert,Ice Cream,Nougat Glace with Caramel or Raspberry Sauce,1
+Reagan,Dessert,Ice Cream,Caramel Ice Cream and Poached Apples with Sauce Calvados,1
+Reagan,Dessert,Ice Cream,Tea Sorbet in Honey Ice Cream,1
+Reagan,Dessert,Ice Cream,Coconut Ice Cream with Fresh Berries,1
+Reagan,Dessert,Bombe,Chestnut Bombe,1
+Reagan,Dessert,Bombe,Mocka Bombe Borboleta,1
+Reagan,Dessert,Bombe,Black Cherry Bombe en Surprise,1
+Reagan,Dessert,Bombe,Pear Williams Bombe,1
+Reagan,Dessert,Bombe,Apricot Sorbet Bombe,1
+Reagan,Dessert,Bombe,Honey Ice Cream Bombe with Chocolate Almond Brittle,1
+Reagan,Dessert,Bombe,Coconut Bombe,1
+Reagan,Dessert,Pastries,Galletas,1
+Reagan,Dessert,Pastries,Pecan Galette,1
+Reagan,Dessert,Parfait,Gin Parfait with Honey Grapefruit,1
+Reagan,Dessert,Croquembouche,Croquembouche à l'orange,1
+Reagan,Dessert,Sculpture,Sugar Tulip Basket with Orange Sorbet,1
+Reagan,Dessert,Sculpture,Sugar Basket with Fresh Fruit Sorbet,1
+Reagan,Dessert,Sculpture,Raspberry Sorbet Rose,1
+Reagan,Dessert,Sculpture,Hazelnut Autumn Log,1
+Reagan,Dessert,Sculpture,Sugar Swan with Sorbet and Fruit,1
+Reagan,Dessert,Sculpture,Chocolate Boxes with Fruit Sorbets and Peach Champagne Sauce,1
+Reagan,Dessert,Vacherin,Vacherin with Mango and Raspberry Sorbet,1
+Reagan,Dessert,Terrine,Walnut Terrine with Pistachio Sauce,1
+Reagan,Dessert,Petits Fours,Petits Fours,14
+Reagan,Dessert,Petits Fours,Petits Fours sec,13
+Reagan,Dessert,Petits Fours,Acorn Petits Fours,1
+Reagan,Dessert,Petits Fours,Petits Fours Glaces,1

@@ -1,0 +1,219 @@
+president,category,subcategory,item,count
+Nixon,Meat,Seafood,Fillet of Sole Véronique,1
+Nixon,Meat,Seafood,Supreme of Sole Véronique,1
+Nixon,Meat,Seafood,Fillet of Dover Sole Véronique,1
+Nixon,Meat,Seafood,Poached Fillets of Sole Véronique,1
+Nixon,Meat,Seafood,Fillet of Halibut Royale,1
+Nixon,Meat,Seafood,Supreme of Halibut Dugléré,1
+Nixon,Meat,Seafood,Fillet of Halibut Dugléré,1
+Nixon,Meat,Seafood,Coquille of Crabmeat Impérial,1
+Nixon,Meat,Seafood,Crab à la Maryland,1
+Nixon,Meat,Seafood,King Crab Niçoise,1
+Nixon,Meat,Seafood,Supreme of Pompano Meunière,1
+Nixon,Meat,Seafood,Supreme of Salmon Farcie Impériale,1
+Nixon,Meat,Seafood,Supreme of Salmon à l'Americaine,1
+Nixon,Meat,Seafood,Supreme of Columbia Salmon with Sauce Verte,1
+Nixon,Meat,Seafood,Coquille of Salmon Neptune,1
+Nixon,Meat,Seafood,Le Saumon de Columbie Chambord,1
+Nixon,Meat,Seafood,Supreme of Turbot Impériale,1
+Nixon,Meat,Seafood,Coquille of Seafood Neptune,1
+Nixon,Meat,Seafood,Coquilles St. Jacques,1
+Nixon,Meat,Seafood,Coquilles St. Jacques Danoise,1
+Nixon,Meat,Seafood,Coquille au Gratin St. Jacques,1
+Nixon,Meat,Seafood,Tronçon of Striped Bass White House,1
+Nixon,Meat,Seafood,Supreme of Striped Bass White House,1
+Nixon,Meat,Red,Fillet of Beef Jardiniere,1
+Nixon,Meat,Red,Contre-Filet of Beef Bordelaise,2
+Nixon,Meat,Red,Fillet of Beef Wellington with Sauce Périgueux,1
+Nixon,Meat,Red,Fillet of Beef Rôti aux Cèpes with Sauce Bordelaise,1
+Nixon,Meat,Red,Roast Contre-Filet of Beef au Chambertain,1
+Nixon,Meat,Red,Contre-Filet of Beef aux Cèpes,1
+Nixon,Meat,Red,Roast Filet of Beef Forestière,1
+Nixon,Meat,Red,Roast Tenderloin of Beef aux Champignons with Sauce Bearnaise,1
+Nixon,Meat,Red,Roasted Sirloin of Beef aux Fines-Herbes,1
+Nixon,Meat,Red,Roast Sirloin of Beef with Sauce Marchand de Vin,1
+Nixon,Meat,Red,Roast Contre-Filet of Beef Marchand Vin,1
+Nixon,Meat,Red,Entrecôte Mirabeau,1
+Nixon,Meat,Red,Le Filet Mignon Potenza,1
+Nixon,Meat,Red,Broiled Filet Mignon Forestière,1
+Nixon,Meat,Red,Le Contre-Filet de Boeuf aux Cèpes,1
+Nixon,Meat,Red,Contre Filet de Boeuf Périgourdine,1
+Nixon,Meat,Red,Chateaubriand Bearnaise,2
+Nixon,Meat,Red,Broiled Chateaubriand with Sauce Bearnaise,1
+Nixon,Meat,Red,Chateaubriand Neretva with Sauce Bearnaise,1
+Nixon,Meat,Red,Tenderloin of Veal Maintenon,1
+Nixon,Meat,Red,Medallions of Veal Périgourdine,1
+Nixon,Meat,Red,Tournedos Saute Bearnaise,1
+Nixon,Meat,Poultry,Breast of Pheasant Smitane,1
+Nixon,Meat,Poultry,Supreme of Pheasant Véronique,1
+Nixon,Meat,Poultry,Breast of Capon Virginia,1
+Nixon,Meat,Poultry,Breast of Capon Eugenie,1
+Nixon,Meat,Poultry,Supreme of Capon Favorite,1
+Nixon,Meat,Poultry,Royal Squab Farcie Périgueux,1
+Nixon,Meat,Poultry,Supreme of Royal Squab,1
+Nixon,Meat,Poultry,Supreme of Royal Squab Smitane,1
+Nixon,Meat,Poultry,Supreme of Duck Montmorency,1
+Nixon,Meat,Poultry,Supreme of Duckling Montmorency,2
+Nixon,Meat,Poultry,Breast of Duckling à l'Orange,1
+Nixon,Meat,Poultry,Supreme of Duckling au Porte,1
+Nixon,Meat,Poultry,Supreme of Duckling Bigarade,3
+Nixon,Meat,Timbale,Timbale of Seafood Américaine,2
+Nixon,Meat,Timbale,Timbale of Seafood White House,2
+Nixon,Meat,Timbale,Timbale of Fruits de Mer White House,1
+Nixon,Meat,Mousse,Mousse of Sole Bonne Femme,1
+Nixon,Meat,Aspic,Supreme of Lobster en Bellevue,2
+Nixon,Meat,Aspic,Supreme of Lobster en Bellevue with Sauce Remoulade,1
+Nixon,Meat,Aspic,Lobster Lustre en Belle-Vue,1
+Nixon,Meat,Aspic,Shrimps en Aspic,1
+Nixon,Meat,Aspic,Mousse of Salmon in Aspic,1
+Nixon,Meat,Aspic,Aspic of Seafood Neptune,1
+Nixon,Carbs,Croquettes,Pommes Dauphine,2
+Nixon,Carbs,Croquettes,Potatoes Berny,1
+Nixon,Carbs,Croquettes,Wild Rice Croquettes,3
+Nixon,Carbs,Pastries,Pommes Macaire,1
+Nixon,Carbs,Pastries,Fleurons Dorés,7
+Nixon,Carbs,Cheese Pastries,Paillettes Dorées,13
+Nixon,Carbs,Vol-au-Vent,Quenelles de Brochet en Vol-au-Vent,1
+Nixon,Carbs,Potatoes,Pommes Souflées,1
+Nixon,Carbs,Potatoes,Potatoes Anna,1
+Nixon,Carbs,Rice,Wild Rice,3
+Nixon,Carbs,Rice,Rice Pilaff,2
+Nixon,Carbs,Rice,Wild Rice Amandine,4
+Nixon,Carbs,Rice,Rice Provençale,1
+Nixon,Vegetables,Mousse,Cucumber Mousse,2
+Nixon,Vegetables,Broccoli,Broccoli au Beurre,3
+Nixon,Vegetables,Broccoli,Broccoli Polonaise,1
+Nixon,Vegetables,Broccoli,Broccoli au Gratin,1
+Nixon,Vegetables,Vegetables,Bouquetière of Vegetables,3
+Nixon,Vegetables,Peas,Tiny Peas Étuvée,1
+Nixon,Vegetables,Tomatoes,Tomatoes Farcies,1
+Nixon,Vegetables,Tomatoes,Tomates Farcies,1
+Nixon,Vegetables,Tomatoes,Tomatoes Florentine,1
+Nixon,Vegetables,Tomatoes,Tomato Provençale,1
+Nixon,Vegetables,Potatoes,Les Pommes Nouvelles,1
+Nixon,Vegetables,Potatoes,Pommes Nouvelles,2
+Nixon,Vegetables,Potatoes,Cocotte Potatoes,1
+Nixon,Vegetables,Potatoes,Potatoes Persillées,2
+Nixon,Vegetables,Potatoes,Pommes Mascotte,2
+Nixon,Vegetables,Potatoes,Pommes Olivettes,1
+Nixon,Vegetables,Potatoes,Pommes aux Amandes,2
+Nixon,Vegetables,Celery,Celery Braises,1
+Nixon,Vegetables,Carrots,Carrots au Beurre,3
+Nixon,Vegetables,Brussels Sprouts,Brussels Sprouts au Beurre,1
+Nixon,Vegetables,Brussels Sprouts,Choux de Bruxelles,1
+Nixon,Vegetables,Mushrooms,Mushrooms Provençale,1
+Nixon,Vegetables,Asparagus,Asperges Fraîches au Beurre,1
+Nixon,Vegetables,Asparagus,Asparagus au Beurre,2
+Nixon,Vegetables,Asparagus,Fresh Asparagus au Beurre,1
+Nixon,Vegetables,Asparagus,Asparagus Hollandaise,1
+Nixon,Vegetables,Asparagus,Fresh Asparagus Hollandaise,1
+Nixon,Vegetables,Asparagus,Les Asperges Fraîches Hollandaise,1
+Nixon,Vegetables,Chestnuts,Chestnuts Glaces,1
+Nixon,Vegetables,Chestnuts,Marrons Glacées,1
+Nixon,Vegetables,Zucchini,Zucchini Saute,1
+Nixon,Vegetables,Zucchini,Zucchini Fermière,1
+Nixon,Vegetables,Zucchini,Zucchini Farcie,1
+Nixon,Vegetables,Artichokes,Artichokes,1
+Nixon,Vegetables,Artichokes,Fresh Artichokes,1
+Nixon,Vegetables,Artichokes,Artichokes Provençale,1
+Nixon,Vegetables,Artichokes,Artichokes St. Germain,1
+Nixon,Vegetables,Artichokes,Artichokes Prima Vera,1
+Nixon,Vegetables,Artichokes,Artichokes Andalouse,1
+Nixon,Vegetables,Artichokes,Artichokes Florentine,1
+Nixon,Vegetables,Timbale,Timbale of Spinach,1
+Nixon,Vegetables,Timbale,Timbale of Spinach Provençale,1
+Nixon,Vegetables,Timbale,Timbale Printanière,1
+Nixon,Vegetables,Eggplant,Eggplant and Green Beans Orientale,1
+Nixon,Vegetables,Garden,Jardiniere de Legumes,1
+Nixon,Vegetables,Garden,Vegetables Jardiniere,1
+Nixon,Vegetables,Green Beans,Eggplant and Green Beans Orientale,1
+Nixon,Vegetables,Green Beans,Green Beans Amandine,4
+Nixon,Wine,Bordeaux,Château Ausone,5
+Nixon,Wine,Bordeaux,Château Margaux,3
+Nixon,Wine,Bordeaux,Château Lafite Rothschild,4
+Nixon,Wine,Bordeaux,Château Mouton Rothschild,3
+Nixon,Wine,Bordeaux,Château Latour,2
+Nixon,Wine,Liebfraumilch,Liebfrauenmilk,1
+Nixon,Wine,Pinot Noir,Martin Ray,1
+Nixon,Wine,Champagne,Dom Pérignon,11
+Nixon,Wine,Champagne,Pol Roger,2
+Nixon,Wine,Champagne,Paul Ruinart,1
+Nixon,Wine,Champagne,Louis Roederer Cristal,13
+Nixon,Wine,Champagne,Taittinger,8
+Nixon,Wine,Champagne,Corton,1
+Nixon,Wine,Champagne,Bollinger,1
+Nixon,Wine,Champagne,Piper-Heidsieck,3
+Nixon,Wine,Sparkling,Almaden Blanc de Blancs,1
+Nixon,Wine,Riesling,Bernkasteler Doctor,14
+Nixon,Wine,Riesling,Schloss Johannisberger,10
+Nixon,Wine,Riesling,Johannisberger Klaus,5
+Nixon,Wine,Chardonnay,Louis Martini,1
+Nixon,Wine,Chardonnay,Inglenook,1
+Nixon,Wine,Chardonnay,Puligny-Montrachet,3
+Nixon,Wine,Chardonnay,Pouilly-Fuissé,2
+Nixon,Wine,Chardonnay,Corton-Charlemagne,1
+Nixon,Wine,Cabernet Sauvignon,Louis Martini,20
+Nixon,Wine,Cabernet Sauvignon,George de Latour Beaulieu,1
+Nixon,Soup/Salad,Cheese,Brie Cheese,11
+Nixon,Soup/Salad,Cheese,Fromage de Brie,1
+Nixon,Soup/Salad,Cheese,Port Salut Cheese,6
+Nixon,Soup/Salad,Cheese,Bel Paese Cheese,6
+Nixon,Soup/Salad,Cheese,Camembert Cheese,4
+Nixon,Soup/Salad,Cheese,Le Fromage de Camembert,1
+Nixon,Soup/Salad,Cheese,Holland Cheeses,1
+Nixon,Soup/Salad,Cheese,Muenster Cheese,3
+Nixon,Soup/Salad,Cheese,Carre de L'Est Cheese,1
+Nixon,Soup/Salad,Cheese,Assorted Cheeses,1
+Nixon,Soup/Salad,Cheese,Fromages Assortis,1
+Nixon,Soup/Salad,Mousse,Roquefort Mousse,2
+Nixon,Soup/Salad,Lettuce,Bibb Lettuce Salad,27
+Nixon,Soup/Salad,Lettuce,Bibb Lettuce and Hearts of Palm,1
+Nixon,Soup/Salad,Lettuce,La Laitue de Kentucky,2
+Nixon,Soup/Salad,Lettuce,Limestone Lettuce,1
+Nixon,Soup/Salad,Mimosa,Salad Mimosa,1
+Nixon,Soup/Salad,Cressonnière,Hearts of Palm Cressonnière,1
+Nixon,Soup/Salad,Cressonnière,Salad Cressonnière,1
+Nixon,Soup/Salad,Caesar,Caesar Salad,1
+Nixon,Soup/Salad,Greens,Garden Salad,2
+Nixon,Soup/Salad,Riverside,Riverside Salad,1
+Nixon,Soup/Salad,Palm Hearts,Bibb Lettuce and Hearts of Palm,1
+Nixon,Dessert,Bavarian Cream,Bavarois Rubané with Sauce Framboise,1
+Nixon,Dessert,Cake,Charlotte Monticello,2
+Nixon,Dessert,Cake,Charlotte Revivim with Sauce Sabayon,1
+Nixon,Dessert,Cake,Charlotte de Pommes with Sauce Sabayon,1
+Nixon,Dessert,Cake,Charlotte de Pommes with Sauce Mousseline,1
+Nixon,Dessert,Cake,Buche de Noel,1
+Nixon,Dessert,Cake,Charlotte Abidjan,1
+Nixon,Dessert,Flambe,Poires Flambées Par-le-Duc with Sauce Sabayon,1
+Nixon,Dessert,Flambe,Crêpes Suzettes Flambées,2
+Nixon,Dessert,Mousse,Mousse au Chocolat,1
+Nixon,Dessert,Mousse,Mousse Glacé au Praliné,1
+Nixon,Dessert,Mousse,Mousse Brazilian,1
+Nixon,Dessert,Mousse,Mousse de Fraises au Grand Marnier with Sauce Melba,1
+Nixon,Dessert,Mousse,Mousse aux Pêches Chantilly,1
+Nixon,Dessert,Fruit,Peaches Cardinale,1
+Nixon,Dessert,Fruit,Figs Roma,1
+Nixon,Dessert,Fruit,Brandied Peach en Surprise,1
+Nixon,Dessert,Fruit,Peach Nsele,1
+Nixon,Dessert,Fruit,Blueberry Melba with Sauce Framboise,1
+Nixon,Dessert,Soufflé,Soufflé Glacé Diplomate,1
+Nixon,Dessert,Soufflé,Soufflé au Grand Marnier with Sauce Noisette,1
+Nixon,Dessert,Soufflé,Soufflé au Grand Marnier with Sauce Sabayon,2
+Nixon,Dessert,Soufflé,Soufflé Glacé Mt. Saana,1
+Nixon,Dessert,Soufflé,Soufflé au Citron,1
+Nixon,Dessert,Ice Cream,Glace à l'Orange,1
+Nixon,Dessert,Ice Cream,La Melon Glacé a la Vigneronne,1
+Nixon,Dessert,Ice Cream,Glace Nougatine,1
+Nixon,Dessert,Ice Cream,Cassata Melon Glace en Surprise,1
+Nixon,Dessert,Ice Cream,Glace Praliné,1
+Nixon,Dessert,Ice Cream,Fresh Peaches Glacées Monticello with Sauce Framboise,1
+Nixon,Dessert,Blancmange,Blancmange Cordiale,1
+Nixon,Dessert,Blancmange,Blanc Manger with Sauce au Chocolat,1
+Nixon,Dessert,Vacherin,Strawberry Vacherin,1
+Nixon,Dessert,Vacherin,Vacherin Délicieuse,1
+Nixon,Dessert,Vacherin,Vacherin Glacé aux Fraises,1
+Nixon,Dessert,Vacherin,Vacherin à la Roma,1
+Nixon,Dessert,Vacherin,Vacherin Glace aux Framboises,1
+Nixon,Dessert,Petits Fours,Petits Fours Sec,1
+Nixon,Dessert,Petits Fours,Petits Fours,7
+Nixon,Dessert,Petits Fours,Les Petits Fours,1
